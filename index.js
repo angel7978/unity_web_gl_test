@@ -18,7 +18,7 @@ app.use(flash());
 app.use(session({secret:'MySecret', resave:true, saveUninitialized:true}));
 
 // Routes
-app.use('/', require('./index.html')); // home.js의 module.exports에 담긴 object(router object)가 module이 되어 require시에 사용
+app.use('/', require('./routes/home')); // home.js의 module.exports에 담긴 object(router object)가 module이 되어 require시에 사용
 
 // Port setting
 var port = 8080;

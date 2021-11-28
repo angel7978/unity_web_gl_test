@@ -7,7 +7,7 @@ var router = express.Router(); // router함수를 초기화
 
 // Home
 router.get('/', function(req, res){ // "/"에 get 요청이 오는 경우를 router함수에 설정
-  res.redirect('/minting');
+  res.redirect('/index');
 });
 
 router.get('/minting/:address', async function(req, res){
