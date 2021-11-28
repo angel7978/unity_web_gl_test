@@ -9,13 +9,14 @@ var methodOverride = require('method-override'); // query로 method 값을 받�
 var app = express();
 
 // Other settings
-app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public')); // '현재_위치/public' route를 static폴더로 지정하라는 명령어, 즉 '/'에 접속하면 '현재_위치/public'를, '/css'에 접속하면 '현재_위치/public/css'를 연결
 app.use(bodyParser.json()); // json 형식의 데이터를 받는다는 설정, route의 callback함수(function(req, res, next){...})의 req.body에서 form으로 입력받은 데이터를 사용할 수 있음
 app.use(bodyParser.urlencoded({ extended: true })); // urlencoded data를 extended 알고리듬을 사용해서 분석한다는 설정
 app.use(methodOverride('_method')); // _method의 query로 들어오는 값으로 HTTP method를 바꿈, 예를들어 http://example.com/category/id?_method=delete를 받으면 _method의 값인 delete을 읽어 해당 request의 HTTP method를 delete으로 바꿈
 app.use(flash());
+app.set('views', __dirname + '/views');
 app.use(session({secret:'MySecret', resave:true, saveUninitialized:true}));
+app.set('view engine', 'ejs'); app.engine('html', require('ejs').renderFile);
 
 // Routes
 app.use('/', require('./routes/home')); // home.js의 module.exports에 담긴 object(router object)가 module이 되어 require시에 사용
