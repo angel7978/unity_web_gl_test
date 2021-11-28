@@ -1,7 +1,7 @@
 {
-"companyName": "ZsTeam",
-"productName": "Grow Germ",
-"productVersion": "1.0.18",
+"companyName": "Zero Seven Studio",
+"productName": "BacteriaWorld",
+"productVersion": "1.0",
 "dataUrl": "WebGl.data.unityweb",
 "wasmCodeUrl": "WebGl.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGl.wasm.framework.unityweb",
