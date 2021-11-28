@@ -22,4 +22,15 @@
       </div>
     </div>
   </body>
+  <script>
+        function updateWalletBtn(addr) {
+          unityInstance.SendMessage("Main Camera", "setText", addr);
+        }
+        function connectWallet() {
+          klaytn.enable().then((accounts) => {
+              console.log(accounts[0] + " " + klaytn.networkVersion);
+              updateWalletBtn(accounts[0]);
+            });
+        }
+  </script>
 </html>
