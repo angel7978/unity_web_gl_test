@@ -1,0 +1,417 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME", 			"value":"細菌を育てる "}, 
+		{"key":"ID_APP_SUMMARY", 		"value":"他の細菌を食って生化学スコアを得て, 最高の細菌になろう！"}, 
+		{"key":"ID_APP_DETAIL", 		"value":"細菌育てるには, 他の細菌を食って生化学スコアを獲得するゲームです。 さまざまな種類の細菌を育てることができ, 強化と進化が可能です。 細菌が進化するたびに得ることができるランダムな能力者に最高の細菌を作成見てください。  "}, 
+		                                        
+		{"key":"ID_LEVEL", 				"value":"レベル"}, 
+        {"key":"ID_SIZE", 				"value":"サイズ"}, 
+		{"key":"ID_SPEED", 				"value":"速度"}, 
+		{"key":"ID_ATTACK", 			"value":"攻撃"}, 
+		{"key":"ID_SCORE", 				"value":"スコア"}, 
+		{"key":"ID_LEVEL_UP", 			"value":"強化"}, 
+		{"key":"ID_EVOLUTION", 			"value":"進化"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"進化に必要な胚芽摂取"},		
+		{"key":"ID_MAXIMUM", 			"value":"最大"}, 
+		{"key":"ID_TRANS", 				"value":"超越"}, 
+		{"key":"ID_TRANS_INFO", 		"value":"すべてのステージをアンロックすると超越することができます。 これまでに得られたすべてのスコアや細菌の情報が初期化されステージ1から新たに開始します。 しかし, 細菌が進化で得た能力は維持されます。 また, 進化で得た生化学スコアボーナスも維持されます。 生化学スコアボーナスが倍増加します。  "}, 
+		{"key":"ID_TRANS_MAG", 			"value":"生化学スコアボーナス "}, 
+		{"key":"ID_RECON_TITLE", 		"value":"再接続補償 "}, 
+		{"key":"ID_RECON_EXP", 			"value":"久しぶりに戻ってきてましたよね！あなたの細菌は, あなたがゲームをしていなくても, 他の細菌を食って生化学スコアを獲得します。  "}, 
+		{"key":"ID_GET_SCORE", 			"value":"獲得した生化学スコア "}, 
+		{"key":"ID_GET", 				"value":"獲得"}, 
+		{"key":"ID_WARNING", 			"value":"警告"}, 
+		{"key":"ID_COMBO", 				"value":"コンボ！ "}, 
+		{"key":"ID_FERM_BOUNUS", 		"value":"発表賞"}, 
+		{"key":"ID_COMING_SOON", 		"value":"近日発売予定"}, 
+		{"key":"ID_QUIT_TITLE", 		"value":"ゲーム終了"}, 
+		{"key":"ID_QUIT_CONTEENTS", 	"value":"本当にゲームを終了しますか？ "}, 
+		{"key":"ID_YES", 				"value":"はい"}, 
+		{"key":"ID_NO", 				"value":"いいえ"}, 
+		{"key":"ID_SETTINGS", 			"value":"設定"}, 
+		{"key":"ID_MUSIC", 				"value":"音"}, 
+		{"key":"ID_LANGUAGE", 			"value":"言語"}, 
+		{"key":"ID_INFO", 				"value":"ゲーム情報"}, 
+		{"key":"ID_CREDITS", 			"value":"製作陣 "}, 
+		{"key":"ID_EVALUATION",			"value":"評価"},
+		{"key":"ID_EVALUATION_INFO",	"value":"あなたが楽しんでいる？ ゲームが楽しい場合は, 5つ星をください！ それは独立系ゲーム開発者にとって大きな力です！  評価後10分間ブースター効果が追加されます！"},
+		{"key":"ID_ADS_WAIT",			"value":"広告は準備中です。 しばらくしてからもう一度お試しください。"},
+		{"key":"ID_SUPPORT",			"value":"スポンサー"},
+		{"key":"ID_SUPPORT_INFO",		"value":"こんにちは。 ウン・ウー・パパ, ジョン・パークです。 心に感銘を受けている場合は, 下のボタンを押してください。 より良いゲームで返済します。"},
+		{"key":"ID_SUPPORT_1",			"value":"コーヒー値スポンサー。"},
+		{"key":"ID_SUPPORT_2",			"value":"赤ちゃんのおむつ値スポンサー。"},
+		{"key":"ID_SUPPORT_3",			"value":"粉ミルク値スポンサー。"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"私はまた, ゲームを進めるためのアイデア, フィードバック, デッサンなども歓迎します。\nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"ありがとうございました。"},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"どうもありがとうございました。 より良いゲームであなたに報酬を与えます。 少しブースター時間を与えます。"},
+		{"key":"ID_CONFIRM",			"value":"確認"},
+
+		{"key":"ID_SUPER", 				"value":"スーパー"}, 
+		{"key":"ID_IMMUNE", 			"value":"免疫"}, 
+		{"key":"ID_MUTATION", 			"value":"突然変異"}, 
+		{"key":"ID_MASTER", 			"value":"マスター"}, 
+		                                        
+		{"key":"ID_SUPER_GERM_AB", 		"value":"スーパー細菌の能力 "}, 
+		{"key":"ID_IMMUNE_GERM_AB", 	"value":"免疫細菌の能力 "}, 
+		{"key":"ID_MUTATION_GERM_AB", 	"value":"突然変異細菌の能力 "}, 
+		{"key":"ID_UNIQUE_AB", 			"value":"固有の能力 "}, 
+		                                        
+		{"key":"ID_GUIDE0", 			"value":"細菌は, 自動的に自分よりも小さい細菌を追いかけ行っ保持食べます。 大きな細菌とぶつかる食わずスロー出ます。 あなたが画面をタッチすると, 細菌がより速くそこに走っていきます。 "}, 
+		{"key":"ID_GUIDE1", 			"value":"ある程度生化学スコアが集まれば, [強化]ボタンを押して, 細菌を強化することができます。 サイズ, 速度, 攻撃, 追加獲得スコアを増加させることができます。  "}, 
+		{"key":"ID_GUIDE2", 			"value":"サイズが大きくなると, より大きな細菌を食うことができ, 速度が速くなると, より迅速に細菌を追いかけ通うことができ, 攻撃が増加するとボス細菌に大きなダメージを与えることができます。  "}, 
+		{"key":"ID_GUIDE3", 			"value":"一般的な細菌に加え洗濯サンセクの特殊細菌が出現します。 この細菌を食う場合, 特別な効果をランダムに獲得することになります。  "}, 
+		{"key":"ID_GUIDE4", 			"value":"ステージに定期的にボスの細菌が出現して, セギュᆮにぶつけたり, タッチを介してボス細菌の体力を削ることができます。 ボス細菌をキャッチ大量の生化学スコアを取得することができます。  "}, 
+		{"key":"ID_GUIDE5", 			"value":"細菌を進化時オン特殊な能力をランダムに取得することができます。 進化は, スーパー細菌 - 免疫細菌 - 突然変異細菌 - マスター細菌の合計4段階があり, より高い段階に行くほど, より良い能力を獲得することになります。 また, 恒久的にすべてのステージで獲得する生化学スコアが5％増加します。  "}, 
+		                                        
+		{"key":"ID_STAGE1", 			"value":"細菌"}, 
+		{"key":"ID_STAGE1_EXP", 		"value":"細菌は, 他の細菌を食って生化学スコアを取得します。 今, あなたの最初の細菌をアンロック試しください！"}, 
+		{"key":"ID_STAGE2", 			"value":"大腸菌"}, 
+		{"key":"ID_STAGE2_EXP", 		"value":"大腸菌は温血動物の腸（大腸と小腸）で多く見られる細菌です。  "}, 
+		{"key":"ID_STAGE3", 			"value":"炭疽菌"}, 
+		{"key":"ID_STAGE3_EXP", 		"value":"炭疽菌の胞子によって発生する感染症の一つです。 皮膚の炎症, 呼吸困難, 腸内の炎症などを起こします。  "}, 
+		{"key":"ID_STAGE4", 			"value":"ブドウ球菌"}, 
+		{"key":"ID_STAGE4_EXP", 		"value":"ブドウ球菌は, 顕微鏡で見た性状がぶどうが密集している姿のように見えます。 グルコースを嫌気的に分解して酸を生成します。  "}, 
+		{"key":"ID_STAGE5", 			"value":"コレラ菌 "}, 
+		{"key":"ID_STAGE5_EXP", 		"value":"コレラ菌は, 生または熟しシーフードが感染の原因になることがあり, 汚染された手で食べ物を調理したり, 摂取したときに発生する可能性があります。 または糞便, 嘔吐物に汚染された食べ物や水を介して感染するのが一般的です。 感染すると, 下痢や脱水症状を見えます。  "}, 
+		{"key":"ID_STAGE6", 			"value":"虫歯菌"}, 
+		{"key":"ID_STAGE6_EXP", 		"value":"口の中の細菌は, 歯や歯茎の間に残っている食べ物に唾などがからみ合っつい塊をなして繁殖するが, その塊がプラークです。 ネバネバ細菌の塊であるプラークは歯茎を破壊する毒で, プラークが多く蓄積されるほど毒素が多くなり, 歯茎を攻撃し, 歯肉に炎症を起こし, 虫歯の原因になります。 虫歯菌は, 歯を黒く腐る作成したり, サクゲ作成します。  "}, 
+		{"key":"ID_STAGE7", 			"value":"乳酸菌"}, 
+		{"key":"ID_STAGE7_EXP", 		"value":"発酵食品でよく見られる菌です。 他の細菌を殺すために山を分泌する特性があります。 しかし, この状態が持続されて, pHがあまりに低くなると, 自分たちが分泌した乳酸に自分たちが死んでしまうこともあります。  "} , 
+		{"key":"ID_STAGE8", 			"value":"キノコ菌 "}, 
+		{"key":"ID_STAGE8_EXP", 		"value":"キノコは袋とたてている菌糸体を指します。 キノコは食べられるキノコもあり, 毒を持っているキノコもあります。 キノコは多細胞であり, 有性生殖をすることも, 無性生殖をすることもできます。 キノコは植物と相互に密接な友好関係を結ぶこともあります。 主に栄養分を交換する関係を形成します。  "}, 
+		{"key":"ID_STAGE9", 			"value":"青カビ菌"}, 
+		{"key":"ID_STAGE9_EXP", 		"value":"青カビは一般家庭でもよく見ることができます。 いくつかの種は, ペニシリンという抗生物質を特によく生成するので, これで薬を作っています。 青カビの特定の種類は, ブルーチーズなどの発酵食品を作るためにも使用されます。  " }, 
+		{"key":"ID_STAGE10", 			"value":"精子"}, 
+		{"key":"ID_STAGE10_EXP", 		"value":"雄動物の生殖細胞を指す言葉です。 精子一匹は35.4MBの遺伝情報がありますので, 一度射精時には約1PBの情報をエクスポートされており, カロリーは0-1カロリーの間にタンパク質/カルシウムなど様々な成分がまんべんなく多く含まれています。 「精子」の構成成分がそうだというんだ, 「精液」のタンパク質とカルシウムが豊富である音がありません。  "}, 
+		
+		{"key":"ID_ST_GINT", 			"value":"巨大化"}, 
+		{"key":"ID_ST_GINT_EXP", 		"value":"サイズ+5 "}, 
+		{"key":"ID_ST_HASTE", 			"value":"加速"}, 
+		{"key":"ID_ST_HASTE_EXP", 		"value":"速度200％ "}, 
+		{"key":"ID_ST_ACUMEN", 			"value":"切れ味"}, 
+		{"key":"ID_ST_ACUMEN_EXP", 		"value":"攻撃200％ "}, 
+		{"key":"ID_ST_GLUE", 			"value":"大食家 "}, 
+		{"key":"ID_ST_GLUE_EXP", 		"value":"サイズに関係なく, すべての細菌の摂取可能"}, 
+		{"key":"ID_ST_ANGEL", 			"value":"天使"}, 
+		{"key":"ID_ST_ANGEL_EXP", 		"value":"獲得生化学スコアが200％〜300％ "}, 
+		{"key":"ID_ST_SMALL", 			"value":"小型化"}, 
+		{"key":"ID_ST_SMALL_EXP", 		"value":"サイズ50％ "}, 
+		{"key":"ID_ST_WEB", 			"value":"蜘蛛の巣"}, 
+		{"key":"ID_ST_WEB_EXP", 		"value":"速度50％ "}, 
+		{"key":"ID_ST_PARAL", 			"value":"神経毒"}, 
+		{"key":"ID_ST_PARAL_EXP", 		"value":"動くことができません "}, 
+		{"key":"ID_ST_DRUNK", 			"value":"泥酔"}, 
+		{"key":"ID_ST_DRUNK_EXP", 		"value":"動きがよろめき"}, 
+		{"key":"ID_ST_ANOREX", 			"value":"拒食症"}, 
+		{"key":"ID_ST_ANOREX_EXP", 		"value":"サイズに関係なく, すべての細菌の摂取不可"}, 
+		{"key":"ID_ST_DEVIL", 			"value":"悪魔"}, 
+		{"key":"ID_ST_DEVIL_EXP", 		"value":"獲得生化学スコアが10％〜50％ "}, 
+		{"key":"ID_ST_AROUS", 			"value":"覚醒"}, 
+		{"key":"ID_ST_AROUS_EXP", 		"value":"すべての能力値向上, 得る生化学スコアの増加, すべての細菌の摂取可能"}, 
+		{"key":"ID_ST_POISON", 			"value":"毒キノコ "}, 
+		{"key":"ID_ST_POISON_EXP", 		"value":"速度50％ "}, 
+		{"key":"ID_ST_SHII", 			"value":"しいたけ"}, 
+		{"key":"ID_ST_SHII_EXP", 		"value":"速度200％ "}, 
+		{"key":"ID_ST_MATSU", 			"value":"松茸"}, 
+		{"key":"ID_ST_MATSU_EXP", 		"value":"攻撃200％ "}, 
+		{"key":"ID_ST_OYSTER", 			"value":"ヒラタケ"}, 
+		{"key":"ID_ST_OYSTER_EXP", 		"value":"サイズ+5 "}, 
+		{"key":"ID_ST_WINTER", 			"value":"えのき"}, 
+		{"key":"ID_ST_WINTER_EXP", 		"value":"獲得生化学スコア200％ "}, 
+		{"key":"ID_ST_WOOD", 			"value":"きくらげ"}, 
+		{"key":"ID_ST_WOOD_EXP", 		"value":"ボス細菌に与えるダメージ500％ "}, 
+		{"key":"ID_ST_KOREAN", 			"value":"霊芝"}, 
+		{"key":"ID_ST_KOREAN_EXP", 		"value":"特殊細菌の出現率500％ "}, 
+		{"key":"ID_ST_TRUF", 			"value":"トリュフ"}, 
+		{"key":"ID_ST_TRUF_EXP", 		"value":"細菌の出現率500％ "}, 
+		                                        
+		{"key":"ID_AV_RIDER", 			"value":"ライダー"}, 
+		{"key":"ID_AV_RIDER_EXP", 		"value":"速度+ 10 "}, 
+		{"key":"ID_AV_GEMB", 			"value":"ギャンブラー"}, 
+		{"key":"ID_AV_GEMB_EXP", 		"value":"獲得生化学スコア50％〜200％ "}, 
+		{"key":"ID_AV_BERS", 			"value":"狂戦士"}, 
+		{"key":"ID_AV_BERS_EXP", 		"value":"攻撃+10"}, 
+		{"key":"ID_AV_BODY", 			"value":"キン肉マン"}, 
+		{"key":"ID_AV_BODY_EXP", 		"value":"サイズ+10 "}, 
+		{"key":"ID_AV_COLL", 			"value":"コレクター"}, 
+		{"key":"ID_AV_COLL_EXP", 		"value":"特殊細菌の出現確率150％ "}, 
+		{"key":"ID_AV_LOCK", 			"value":"ロックオン"}, 
+		{"key":"ID_AV_LOCK_EXP", 		"value":"細菌がプレイヤー細菌に向かって飛んで来る "}, 
+		{"key":"ID_AV_FROZ", 			"value":"冬の王国 "}, 
+		{"key":"ID_AV_FROZ_EXP", 		"value":"一般的な細菌の速度が30％遅くジム "}, 
+		{"key":"ID_AV_BUFF", 			"value":"バッファ"}, 
+		{"key":"ID_AV_BUFF_EXP", 		"value":"状態異常中バフの持続時間が15秒増加 "}, 
+		{"key":"ID_AV_REGI", 			"value":"抵抗"}, 
+		{"key":"ID_AV_REGI_EXP", 		"value":"状態異常中デバフの持続時間が15秒減少 "}, 
+		{"key":"ID_AV_HUNT", 			"value":"ハンター"}, 
+		{"key":"ID_AV_HUNT_EXP", 		"value":"ボス細菌に与えるダメージ200％ "}, 
+		{"key":"ID_AV_CSPOON", 			"value":"同数私"}, 
+		{"key":"ID_AV_CSPOON_EXP", 		"value":"獲得生化学スコア120％ "}, 
+		{"key":"ID_AV_LASSO", 			"value":"わな"}, 
+		{"key":"ID_AV_LASSO_EXP", 		"value":"特殊細菌の速度が50％減少"}, 
+		{"key":"ID_AV_DOMI",			"value":"優性遺伝子"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"進化に必要な胚芽摂取量の30％の減少"},
+		                                        
+		{"key":"ID_AV_MAGN", 			"value":"磁性"}, 
+		{"key":"ID_AV_MAGN_EXP", 		"value":"小さな細菌が少しずつついて来る"}, 
+		{"key":"ID_AV_BOMB", 			"value":"ボンバーマン"}, 
+		{"key":"ID_AV_BOMB_EXP", 		"value":"大きな細菌とぶつかる一定の確率で爆破させ, 小さな細菌にマンドゥルム "}, 
+		{"key":"ID_AV_GOHST", 			"value":"ゴースト"}, 
+		{"key":"ID_AV_GOHST_EXP", 		"value":"大きな細菌とぶつからずに通過する "}, 
+		{"key":"ID_AV_SSPOON", 			"value":"ウンスジョ "}, 
+		{"key":"ID_AV_SSPOON_EXP", 		"value":"獲得生化学スコア150％ "}, 
+		{"key":"ID_AV_AGRO", 			"value":"挑発"}, 
+		{"key":"ID_AV_AGRO_EXP", 		"value":"細菌の生成150％ "}, 
+		{"key":"ID_AV_FORTU", 			"value":"幸運"}, 
+		{"key":"ID_AV_FORTU_EXP", 		"value":"特殊細菌を吸収するときバフがかかる確率300％ "}, 
+		{"key":"ID_AV_MATRIX", 			"value":"マトリックス"}, 
+		{"key":"ID_AV_MATRIX_EXP", 		"value":"プレーヤー細菌周辺細菌が非常に遅く "}, 
+		{"key":"ID_AV_NEMES", 			"value":"天敵"}, 
+		{"key":"ID_AV_NEMES_EXP", 		"value":"プレーヤー細菌よりも小さい細菌が出てくる確率300％ "}, 
+		{"key":"ID_AV_ADVER", 			"value":"広告主"}, 
+		{"key":"ID_AV_ADVER_EXP", 		"value":"広告で得る効果10秒の増加, クールタイム10秒減少 "}, 
+		{"key":"ID_AV_SWOOP", 			"value":"奇襲攻撃"}, 
+		{"key":"ID_AV_SWOOP_EXP", 		"value":"ボス体力が30％減少"}, 
+		{"key":"ID_AV_RADAR", 			"value":"レーダー"}, 
+		{"key":"ID_AV_RADAR_EXP", 		"value":"ボス出現時間が30秒減少 "}, 
+		{"key":"ID_AV_GROUP", 			"value":"集団狩り "}, 
+		{"key":"ID_AV_GROUP_EXP", 		"value":"ボスが一匹出現 "}, 
+		{"key":"ID_AV_NEGO", 			"value":"交渉屋 "}, 
+		{"key":"ID_AV_NEGO_EXP", 		"value":"再接続の補償が10％増加"}, 
+		                                        
+		{"key":"ID_AV_DOPP", 			"value":"ドッペルゲンガー"}, 
+		{"key":"ID_AV_DOPP_EXP", 		"value":"細菌が2倍に複製される "}, 
+		{"key":"ID_AV_TOPP", 			"value":"最上位捕食者 "}, 
+		{"key":"ID_AV_TOPP_EXP", 		"value":"サイズに関係なく, 細菌の摂取可能"}, 
+		{"key":"ID_AV_MAGIC", 			"value":"宝袋 "}, 
+		{"key":"ID_AV_MAGIC_EXP", 		"value":"ボス細菌が死ぬ時に出るアイテム1000％ "}, 
+		{"key":"ID_AV_GSPOON", 			"value":"金カトラリー "}, 
+		{"key":"ID_AV_GSPOON_EXP", 		"value":"獲得生化学スコア200％ "}, 
+		{"key":"ID_AV_ALCHE", 			"value":"錬金術師"}, 
+		{"key":"ID_AV_ALCHE_EXP", 		"value":"プレイヤー細菌で2秒ごとに金ミサイルがいきミサイルに合ったオブジェクトは, 金で変わらこのとき, 金に変わったオブジェクトを摂取するとスコア1000％ "}, 
+		{"key":"ID_AV_COMBO", 			"value":"コンボ"}, 
+		{"key":"ID_AV_COMBO_EXP", 		"value":"細菌を連続的に摂取すればするほど得生化学スコアがますます増加します。 2秒間得点しないと,コンボはリセットされます。 "}, 
+		{"key":"ID_AV_SALE", 			"value":"強化スクロール"}, 
+		{"key":"ID_AV_SALE_EXP", 		"value":"強化費用50％削減"}, 
+		                                        
+		{"key":"ID_AV_CELL", 			"value":"細胞分裂"}, 
+		{"key":"ID_AV_CELL_EXP", 		"value":"細菌数x2, サイズ80％ "}, 
+		{"key":"ID_AV_AROSU", 			"value":"覚醒ポーション "}, 
+		{"key":"ID_AV_AROSU_EXP", 		"value":"ステージの仕事分に一本の覚醒ポーションが生じ, これを摂取する時に獲得することができるすべてのバフ効果を獲得 "}, 
+		{"key":"ID_AV_ANTH", 			"value":"炭疽"}, 
+		{"key":"ID_AV_ANTH_EXP", 		"value":"炭疽ガスを散布して, ガスを飲んだ細菌を炭疽にかかること。 炭疽にかかった細菌は, しばらくして, 複数の破片に分解ジム "}, 
+		{"key":"ID_AV_GLUCO", 			"value":"グルコース注入 "}, 
+		{"key":"ID_AV_GLUCO_EXP", 		"value":"周辺にブドウ糖を注入, ボス細菌がブドウ糖を一つ摂取するたびに死んだときに落ちるアイテムが一つずつ増える"}, 
+		{"key":"ID_AV_COMMA", 			"value":"コレラ感染 "}, 
+		{"key":"ID_AV_COMMA_EXP", 		"value":"これ以上の細菌を摂取することができません。 ぶつかった細菌は, コレラに感染します。 コレラに感染した細菌は, 生化学スコアを継続的に排出 "}, 
+		{"key":"ID_AV_ROTTON", 			"value":"腐ったが "}, 
+		{"key":"ID_AV_ROTTON_EXP", 		"value":"ステージにきれいな歯を示し南。 これぶつかる場合黒く腐敗され, すべての人があまりたら爆発し, 生化学スコアを多く獲得 "}, 
+		{"key":"ID_AV_FERMEN", 			"value":"発酵"}, 
+		{"key":"ID_AV_FERMEN_EXP", 		"value":"プレイヤー細菌が他の細菌を食べていないとき, 発酵が開始された。 他の細菌を食べる発酵が初期化され, 現在の発酵の程度に応じ生化学スコアを追加で獲得 "}, 
+		{"key":"ID_AV_SPORE", 			"value":"胞子"}, 
+		{"key":"ID_AV_SPORE_EXP", 		"value":"一定時間ごとに胞子が広がって, 特定の場所にキノコが育つキノコは, 他の細菌を食べ大きくなりプレーヤーの細菌が届くと, 爆発し生化学スコアを排出"}, 
+		{"key":"ID_AV_PENIC", 			"value":"ペニシリン"}, 
+		{"key":"ID_AV_PENIC_EXP", 		"value":"強力な抗生物質をすべてステージに投与プレイヤー細菌やボス細菌を除く, 他のすべての細菌を完全に殺し生化学スコアに変換させる "}, 
+		{"key":"ID_AV_OVUL", 			"value":"排卵"}, 
+		{"key":"ID_AV_OVUL_EXP", 		"value":"ステージに卵子を投入。 すべての精子は卵子に向かって突進する。 プレイヤー細菌と卵子が受精になると, 莫大な生化学スコアを獲得 "}, 
+		
+		{"key":"LAST", 					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

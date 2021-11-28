@@ -1,0 +1,418 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME",			"value":"Grow Germ"},
+		{"key":"ID_APP_SUMMARY",		"value":"Mangia altri germi e ottieni un punteggio biochimico per diventare il miglior germe!"},
+		{"key":"ID_APP_DETAIL",			"value":"Crescere i germi è un gioco in cui si mangiano altri germi e si acquisiscono punteggi biochimici: può far crescere molti tipi di germi e può rafforzarsi ed evolversi, creare il germe migliore con le abilità casuali che si possono ottenere ogni volta che un germe si evolve."},
+		                                        
+		{"key":"ID_LEVEL",				"value":"Livello"},
+        {"key":"ID_SIZE",				"value":"Taglia"},
+		{"key":"ID_SPEED",				"value":"Velocità"},
+		{"key":"ID_ATTACK",				"value":"Attacco"},
+		{"key":"ID_SCORE",				"value":"Punto"},
+		{"key":"ID_LEVEL_UP",			"value":"Rafforzare"},
+		{"key":"ID_EVOLUTION",			"value":"Evoluzione"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"Assunzione di germi necessaria per l'evoluzione"},
+		{"key":"ID_MAXIMUM",			"value":"Massimo"},
+		{"key":"ID_TRANS",				"value":"Trascendenza"},
+		{"key":"ID_TRANS_INFO",			"value":"Se sblocchi tutti gli stadi, puoi trascendere, quindi i punteggi che hai guadagnato fino ad ora saranno inizializzati e inizierai dalla Fase 1. Tuttavia, l'abilità e l'abilità uniche acquisite dall'evoluzione di ogni fase del germe sono mantenute. Anche il tasso di acquisizione del punteggio biochimico bonus per evoluzione è mantenuto. Il tuo punteggio di punteggio biochimico è raddoppiato. "},
+		{"key":"ID_TRANS_MAG",			"value":"Bonus punteggio biochimico"},
+		{"key":"ID_RECON_TITLE",		"value":"Riconoscimento Riconoscimento"},
+		{"key":"ID_RECON_EXP",			"value":"Sei tornato indietro da molto tempo! NI tuoi germi sono desiderosi di mangiare altri germi e produrre punteggi biochimici anche quando non stai giocando."},
+		{"key":"ID_GET_SCORE",			"value":"Punteggio biochimico acquisito"},
+		{"key":"ID_GET",				"value":"Ottenere"},
+		{"key":"ID_WARNING",			"value":"AVVERTIMENTO"},
+		{"key":"ID_COMBO",				"value":"Combo!"},
+		{"key":"ID_FERM_BOUNUS",		"value":"Bonus di fermentazione"},
+		{"key":"ID_COMING_SOON",		"value":"Prossimamente"},
+		{"key":"ID_QUIT_TITLE",			"value":"Game Quit"},
+		{"key":"ID_QUIT_CONTEENTS",		"value":"Hai davvero lasciato il gioco?"},
+		{"key":"ID_YES",				"value":"Sì"},
+		{"key":"ID_NO",					"value":"No"},
+		{"key":"ID_SETTINGS",			"value":"Impostazioni"},
+		{"key":"ID_MUSIC",				"value":"Suono"},
+		{"key":"ID_LANGUAGE",			"value":"Linguaggio"},
+		{"key":"ID_INFO",				"value":"Informazioni del gioco"},
+		{"key":"ID_CREDITS",			"value":"Titoli di coda"},
+		{"key":"ID_EVALUATION",			"value":"Valutazione"},
+		{"key":"ID_EVALUATION_INFO",	"value":"Ti stai divertendo? Se il gioco è divertente, 5 stelle per favore! È un grande potere per gli sviluppatori di giochi indipendenti !! L'effetto Booster sarà aggiunto per 10 minuti dopo la valutazione!"},
+		{"key":"ID_ADS_WAIT",			"value":"La pubblicità è in preparazione. Per favore riprova tra qualche istante."},
+		{"key":"ID_SUPPORT",			"value":"Supporto"},
+		{"key":"ID_SUPPORT_INFO",		"value":"Ciao. Eun Woo papà, questo è John Park, se sei colpito dal tuo cuore, premi il pulsante qui sotto, ti ripagherò con una partita migliore."},
+		{"key":"ID_SUPPORT_1",			"value":"Supporta il valore del caffè"},
+		{"key":"ID_SUPPORT_2",			"value":"Supporta il valore del pannolino per bambini"},
+		{"key":"ID_SUPPORT_3",			"value":"Supporta il valore del latte in polvere"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"Accolgo anche idee, feedback, disegni, ecc. Che faranno avanzare il gioco. \nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"Grazie."},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"Grazie mille. Ti ricompenserò con un gioco migliore. Ti darò un piccolo momento di richiamo."},
+		{"key":"ID_CONFIRM",			"value":"Confermare"},
+
+		{"key":"ID_SUPER",				"value":"Super"},
+		{"key":"ID_IMMUNE",				"value":"Immune"},
+		{"key":"ID_MUTATION",			"value":"Mutazione"},
+		{"key":"ID_MASTER",				"value":"Maestro"},
+		                                        
+		{"key":"ID_SUPER_GERM_AB",		"value":"Abilità Super Germ"},
+		{"key":"ID_IMMUNE_GERM_AB",		"value":"Abilità del germe immune"},
+		{"key":"ID_MUTATION_GERM_AB",	"value":"Abilità del germe della mutazione"},
+		{"key":"ID_UNIQUE_AB",			"value":"Abilità unica"},
+		                                        
+		{"key":"ID_GUIDE0",				"value":"I germi inseguono automaticamente piccoli germi che sono più piccoli di loro stessi: se colpisci un grande germe, non sarà in grado di mangiarlo: quando tocchi lo schermo, i germi corrono più velocemente lì"},
+		{"key":"ID_GUIDE1",				"value":"Una volta che il punteggio biochimico raggiunge un certo livello, puoi rafforzare il germe premendo il pulsante [Rinforza] .È possibile aumentare le dimensioni, la velocità, l'attacco e il punteggio biochimico dell'acquisizione aggiuntiva."},
+		{"key":"ID_GUIDE2",				"value":"Più grande è la dimensione, più grande può essere mangiato il germe, più veloce è la velocità, più velocemente il germe può seguire gli altri germi. Gli attacchi aumentati possono causare più danni ai germi del capo. "},
+		{"key":"ID_GUIDE3",				"value":"Oltre ai comuni germi, appare un germe speciale di colore rosso: se mangi questi germi, ottieni un effetto a caso"},
+		{"key":"ID_GUIDE4",				"value":"Periodicamente il germe del boss appare sul palco, puoi sconfiggere i germi del boss colpendo o toccando, sconfiggendo i germi del boss può risultare in una grande quantità di punteggi biochimici."},
+		{"key":"ID_GUIDE5",				"value":"Evolvendo i germi si possono ottenere abilità speciali a caso: ci sono quattro livelli di evoluzione: germe super - germe immune - germe di mutante germe-padrone, mentre i germi si evolvono, acquisiscono migliori abilità e aumenta il punteggio biochimico in modo permanente su tutte le fasi del 5%. "},
+		                                        
+		{"key":"ID_STAGE1",				"value":"Germe"},
+		{"key":"ID_STAGE1_EXP",			"value":"I germi mangiano germi più piccoli di loro e ottengono punteggi biochimici. Ora sblocca il tuo primo germe!"},
+		{"key":"ID_STAGE2",				"value":"E. coli"},
+		{"key":"ID_STAGE2_EXP",			"value":"L'Escherichia coli è un germe comune presente nell'intestino (intestino crasso e intestino tenue) di animali a sangue caldo"},
+		{"key":"ID_STAGE3",				"value":"Antrace"},
+		{"key":"ID_STAGE3_EXP",			"value":"È una delle malattie infettive causate dalle spore di Bacillus anthracis che causa infiammazione della pelle, dispnea e infiammazione intestinale."},
+		{"key":"ID_STAGE4",				"value":"Staphylococcus"},
+		{"key":"ID_STAGE4_EXP",			"value":"Lo stafilococco sembra un grappolo di uva microscopica, la decomposizione anaerobica del glucosio per produrre acido."},
+		{"key":"ID_STAGE5",				"value":"Vibrio cholerae"},
+		{"key":"ID_STAGE5_EXP",			"value":"Il colera può essere causato da frutti di mare crudi o poco cotti, che possono verificarsi durante la cottura o l'ingestione di cibo con mani contaminate.È comune che si infettano attraverso cibo o acqua contaminati da feci o vomito.Se si infetta, si ha la diarrea e la disidratazione. "},
+		{"key":"ID_STAGE6",				"value":"Cavità"},
+		{"key":"ID_STAGE6_EXP",			"value":"I germi nella bocca crescono sul cibo o sulle gengive tra il dente e le gengive con la loro saliva che si aggrappa e formando grumi.I grumi sono placca.La placca, un batterio appiccicoso, è una gomma che distrugge le gengive. più tossine attaccano le gengive, irritano le gengive e causano carie dentaria, mentre la carie dentaria fa diventare neri i denti o scoloriti "},
+		{"key":"ID_STAGE7",				"value":"Lactobacillus"},
+		{"key":"ID_STAGE7_EXP",			"value":"È un fungo comune nei cibi fermentati, ha la proprietà di rilasciare acido per uccidere altri germi, tuttavia, se questo stato continua e l'acidità diventa troppo bassa, possono morire a causa dell'acido lattico che hanno secreto."},
+		{"key":"ID_STAGE8",				"value":"Fungo fungo"},
+		{"key":"ID_STAGE8_EXP",			"value":"Il fungo è un micelio con un sacco e una spalla, i funghi hanno funghi che possono essere mangiati e funghi che hanno veleno.I funghi sono multicellulari e possono produrre riproduzione sessuale o riproduzione asessuata.Funghi hanno anche una stretta amicizia con le piante.Principalmente forma una relazione scambiare sostanze nutritive. "},
+		{"key":"ID_STAGE9",				"value":"Penicillium"},
+		{"key":"ID_STAGE9_EXP",			"value":"Il penicillium è anche comune nelle case: alcune specie producono antibiotici chiamati penicilline, alcuni tipi di penicillium sono utilizzati anche per produrre alimenti fermentati come il formaggio blu"},
+		{"key":"ID_STAGE10",			"value":"Sperma"},
+		{"key":"ID_STAGE10_EXP",		"value":"Si riferisce alla cellula germinale di un animale maschio: uno spermatozoo ha 35,4 MB di informazioni genetiche, quindi invierà circa 1PB di informazioni una volta che viene eiaculato e contiene molti ingredienti diversi come proteine ​​/ calcio tra 0- 1 calorie: questo è ciò che costituisce lo sperma, non è che lo sperma sia ricco di proteine ​​e calcio "},
+		
+		{"key":"ID_ST_GINT",			"value":"Giantization"},
+		{"key":"ID_ST_GINT_EXP",		"value":"Dimensione +5"},
+		{"key":"ID_ST_HASTE",			"value":"Fretta"},
+		{"key":"ID_ST_HASTE_EXP",		"value":"Velocità 200%"},
+		{"key":"ID_ST_ACUMEN",			"value":"Acume"},
+		{"key":"ID_ST_ACUMEN_EXP",		"value":"Attack 200%"},
+		{"key":"ID_ST_GLUE",			"value":"Ghiottone"},
+		{"key":"ID_ST_GLUE_EXP",		"value":"Tutti i germi possono mangiare indipendentemente dalle dimensioni"},
+		{"key":"ID_ST_ANGEL",			"value":"Angelo"},
+		{"key":"ID_ST_ANGEL_EXP",		"value":"Il punteggio biochimico acquisito va dal 200% al 300%"},
+		{"key":"ID_ST_SMALL",			"value":"Smallization"},
+		{"key":"ID_ST_SMALL_EXP",		"value":"Dimensione 50%"},
+		{"key":"ID_ST_WEB",				"value":"Ragnatela"},
+		{"key":"ID_ST_WEB_EXP",			"value":"Velocità 50%"},
+		{"key":"ID_ST_PARAL",			"value":"Paralisi"},
+		{"key":"ID_ST_PARAL_EXP",		"value":"Non posso muovermi"},
+		{"key":"ID_ST_DRUNK",			"value":"Dead drunkenness"},
+		{"key":"ID_ST_DRUNK_EXP",		"value":"Motion stumble"},
+		{"key":"ID_ST_ANOREX",			"value":"Anoressia"},
+		{"key":"ID_ST_ANOREX_EXP",		"value":"Tutto il germe, indipendentemente dalle dimensioni, non può essere consumato"},
+		{"key":"ID_ST_DEVIL",			"value":"Diavolo"},
+		{"key":"ID_ST_DEVIL_EXP",		"value":"Il punteggio biochimico acquisito va dal 10% al 50%"},
+		{"key":"ID_ST_AROUS",			"value":"Eccitazione"},
+		{"key":"ID_ST_AROUS_EXP",		"value":"Aumenta tutte le statistiche, aumenta il punteggio biochimico, tutto il germe può mangiare"},
+		{"key":"ID_ST_POISON",			"value":"Fungo velenoso"},
+		{"key":"ID_ST_POISON_EXP",		"value":"Velocità 50%"},
+		{"key":"ID_ST_SHII",			"value":"Funghi shiitake"},
+		{"key":"ID_ST_SHII_EXP",		"value":"Velocità 200%"},
+		{"key":"ID_ST_MATSU",			"value":"Funghi Matsutake"},
+		{"key":"ID_ST_MATSU_EXP",		"value":"Attack 200%"},
+		{"key":"ID_ST_OYSTER",			"value":"Oyster mushroom"},
+		{"key":"ID_ST_OYSTER_EXP",		"value":"Dimensione +5"},
+		{"key":"ID_ST_WINTER",			"value":"Fungo invernale"},
+		{"key":"ID_ST_WINTER_EXP",		"value":"Punteggio biochimico acquisito 200%"},
+		{"key":"ID_ST_WOOD",			"value":"Fungo dell'orecchio di legno"},
+		{"key":"ID_ST_WOOD_EXP",		"value":"Danno ai boss germi al 500%"},
+		{"key":"ID_ST_KOREAN",			"value":"Fungo gigante coreano"},
+		{"key":"ID_ST_KOREAN_EXP",		"value":"Il tasso di insorgenza di un germe speciale del 500%"},
+		{"key":"ID_ST_TRUF",			"value":"Tartufo"},
+		{"key":"ID_ST_TRUF_EXP",		"value":"Il tasso di comparsa dei germi 500%"},
+		                                        
+		{"key":"ID_AV_RIDER",			"value":"Rider"},
+		{"key":"ID_AV_RIDER_EXP",		"value":"Velocità +10"},
+		{"key":"ID_AV_GEMB",			"value":"Giocatore"},
+		{"key":"ID_AV_GEMB_EXP",		"value":"Punteggio biochimico acquisito dal 50% al 200%"},
+		{"key":"ID_AV_BERS",			"value":"Berserker"},
+		{"key":"ID_AV_BERS_EXP",		"value":"Attacco +10"},
+		{"key":"ID_AV_BODY",			"value":"Bodybuilder"},
+		{"key":"ID_AV_BODY_EXP",		"value":"Dimensione +10"},
+		{"key":"ID_AV_COLL",			"value":"Collettore"},
+		{"key":"ID_AV_COLL_EXP",		"value":"Probabilità di comparsa di un germe speciale al 150%"},
+		{"key":"ID_AV_LOCK",			"value":"Blocco su"},
+		{"key":"ID_AV_LOCK_EXP",		"value":"I germi corrono verso il germe del giocatore"},
+		{"key":"ID_AV_FROZ",			"value":"Congelato"},
+		{"key":"ID_AV_FROZ_EXP",		"value":"La velocità del germe comune è del 30% più lenta"},
+		{"key":"ID_AV_BUFF",			"value":"Buffer"},
+		{"key":"ID_AV_BUFF_EXP",		"value":"Aumenta la durata dei buff di 15 secondi"},
+		{"key":"ID_AV_REGI",			"value":"Resistenza"},
+		{"key":"ID_AV_REGI_EXP",		"value":"Riduce la durata dei debuff di 15 secondi"},
+		{"key":"ID_AV_HUNT",			"value":"Cacciatore"},
+		{"key":"ID_AV_HUNT_EXP",		"value":"Danno ai boss germi 200%"},
+		{"key":"ID_AV_CSPOON",			"value":"Copper Spoon"},
+		{"key":"ID_AV_CSPOON_EXP",		"value":"Punteggio biochimico acquisito 120%"},
+		{"key":"ID_AV_LASSO",			"value":"Lasso"},
+		{"key":"ID_AV_LASSO_EXP",		"value":"Riduce la velocità del germe speciale del 50%"},
+		{"key":"ID_AV_DOMI",			"value":"Gene dominante"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"Riduzione del 30% dell'apporto di germi richiesto per l'evoluzione"},
+		                                        
+		{"key":"ID_AV_MAGN",			"value":"Magnetismo"},
+		{"key":"ID_AV_MAGN_EXP",		"value":"I piccoli germi sono arrivati ​​un po '"},
+		{"key":"ID_AV_BOMB",			"value":"Bomberman"},
+		{"key":"ID_AV_BOMB_EXP",		"value":"Bombardalo con una certa probabilità e trasformalo in piccoli germi quando colpisci i grossi germi"},
+		{"key":"ID_AV_GOHST",			"value":"Fantasma"},
+		{"key":"ID_AV_GOHST_EXP",		"value":"Passa attraverso senza incontrare grandi germi"},
+		{"key":"ID_AV_SSPOON",			"value":"Cucchiaio d'Argento"},
+		{"key":"ID_AV_SSPOON_EXP",		"value":"Punteggio biochimico acquisito 150%"},
+		{"key":"ID_AV_AGRO",			"value":"Provocazioni"},
+		{"key":"ID_AV_AGRO_EXP",		"value":"Generazione di germi al 150%"},
+		{"key":"ID_AV_FORTU",			"value":"Fortunato"},
+		{"key":"ID_AV_FORTU_EXP",		"value":"Probabilità di prendere il buff quando si assorbe il germe speciale al 300%"},
+		{"key":"ID_AV_MATRIX",			"value":"Matrice"},
+		{"key":"ID_AV_MATRIX_EXP",		"value":"I germi sono molto lenti vicino ai germi dei giocatori"},
+		{"key":"ID_AV_NEMES",			"value":"Nemesi"},
+		{"key":"ID_AV_NEMES_EXP",		"value":"La probabilità di berm che è minore del germe del giocatore è del 300%"},
+		{"key":"ID_AV_ADVER",			"value":"Inserzionista"},
+		{"key":"ID_AV_ADVER_EXP",		"value":"10 secondi di aumento dell'effetto della pubblicità, 10 secondi di diminuzione del cooldown"},
+		{"key":"ID_AV_SWOOP",			"value":"Swoop"},
+		{"key":"ID_AV_SWOOP_EXP",		"value":"HP di boss germ è ridotto del 30%"},
+		{"key":"ID_AV_RADAR",			"value":"Radar"},
+		{"key":"ID_AV_RADAR_EXP",		"value":"Tempo di generazione dei boss ridotto di 30 secondi"},
+		{"key":"ID_AV_GROUP",			"value":"Caccia al gruppo"},
+		{"key":"ID_AV_GROUP_EXP",		"value":"Numero di germi sporgenti del boss +1"},
+		{"key":"ID_AV_NEGO",			"value":"Negoziatore"},
+		{"key":"ID_AV_NEGO_EXP",		"value":"Il punteggio biochimico di riconnessione è aumentato del 10%"},
+		                                        
+		{"key":"ID_AV_DOPP",			"value":"Doppelganger"},
+		{"key":"ID_AV_DOPP_EXP",		"value":"I germi sono duplicati"},
+		{"key":"ID_AV_TOPP",			"value":"Top Predator"},
+		{"key":"ID_AV_TOPP_EXP",		"value":"Il germe può essere ingerito indipendentemente dalle dimensioni"},
+		{"key":"ID_AV_MAGIC",			"value":"Borsa del tesoro"},
+		{"key":"ID_AV_MAGIC_EXP",		"value":"L'oggetto che esce quando il germe del boss muore del 1,000%"},
+		{"key":"ID_AV_GSPOON",			"value":"Gold Spoon"},
+		{"key":"ID_AV_GSPOON_EXP",		"value":"Punteggio biochimico acquisito 200%"},
+		{"key":"ID_AV_ALCHE",			"value":"alchimista"},
+		{"key":"ID_AV_ALCHE_EXP",		"value":"I germi dei giocatori escono ogni 2 secondi con un missile e l'oggetto colpito dal missile diventa oro. Se assorbi un oggetto che è cambiato in oro, il punteggio biochimico del 1,000%"},
+		{"key":"ID_AV_COMBO",			"value":"Combo"},
+		{"key":"ID_AV_COMBO_EXP",		"value":"L'assunzione consecutiva di germi aumenta il punteggio biochimico ottenuto: Se non ottieni punti per 2 secondi, la combo viene resettata."},
+		{"key":"ID_AV_SALE",			"value":"Scorrimento di rinforzo"},
+		{"key":"ID_AV_SALE_EXP",		"value":"Riduzione dei costi di rinforzo del 50%"},
+		                                        
+		{"key":"ID_AV_CELL",			"value":"Divisione cellulare"},
+		{"key":"ID_AV_CELL_EXP",		"value":"Numero di germi x2, dimensione 80%"},
+		{"key":"ID_AV_AROSU",			"value":"Pozione di eccitazione"},
+		{"key":"ID_AV_AROSU_EXP",		"value":"Lo stage ottiene 1 pozione di eccitazione al minuto e ottiene tutti gli effetti buff che possono essere ottenuti se ingeriti"},
+		{"key":"ID_AV_ANTH",			"value":"Antrace"},
+		{"key":"ID_AV_ANTH_EXP",		"value":"Diffondere gas di antrace, portando i germi di gas all'antrace, i germi infetti da antrace si dividono in diversi frammenti dopo un breve periodo di tempo."},
+		{"key":"ID_AV_GLUCO",			"value":"Glucose Spray"},
+		{"key":"ID_AV_GLUCO_EXP",		"value":"Spruzza il glucosio in giro Ogni volta che un germe del boss prende un glucosio, esso cade un oggetto ogni volta che muore."},
+		{"key":"ID_AV_COMMA",			"value":"Infezione da colera"},
+		{"key":"ID_AV_COMMA_EXP",		"value":"Il germe non può più essere ingerito e il germe che è colpito è infettato dal colera, mentre i germi infetti dal colera continuano a emettere punteggi biochimici"},
+		{"key":"ID_AV_ROTTON",			"value":"Dente marcio"},
+		{"key":"ID_AV_ROTTON_EXP",		"value":"Sul palco appare un dente pulito, e quando il germe colpisce, ruota in nero, esplode e ottiene molti punteggi biochimici quando tutti i denti marciscono"},
+		{"key":"ID_AV_FERMEN",			"value":"Fermentazione"},
+		{"key":"ID_AV_FERMEN_EXP",		"value":"La fermentazione inizia quando il germe del giocatore non sta mangiando altri germi, quando vengono consumati altri germi, la fermentazione viene inizializzata e vengono ottenuti ulteriori punteggi biochimici a seconda del grado di fermentazione presente"},
+		{"key":"ID_AV_SPORE",			"value":"Spore"},
+		{"key":"ID_AV_SPORE_EXP",		"value":"Le spore si stanno diffondendo a intervalli regolari e i funghi crescono in luoghi specifici: il fungo cresce mangiando altri germi, esplode quando il germe del giocatore li raggiunge e rilascia punteggi biochimici."},
+		{"key":"ID_AV_PENIC",			"value":"Penicillina"},
+		{"key":"ID_AV_PENIC_EXP",		"value":"Forti antibiotici applicati a tutte le fasi, uccidono tutti gli altri germi, eccetto il germe del giocatore e il germe del boss, e li convertono in punteggi biochimici"},
+		{"key":"ID_AV_OVUL",			"value":"Ovulazione"},
+		{"key":"ID_AV_OVUL_EXP",		"value":"Metti la cellula uovo sul palco: tutti gli spermatozoi corrono verso la cellula uovo, quando il germe del giocatore e la cellula uovo vengono fecondati, otterranno un enorme punteggio biochimico"},
+		
+		{"key":"LAST",					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

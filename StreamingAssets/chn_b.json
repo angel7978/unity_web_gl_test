@@ -1,0 +1,357 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME", 			"value":"種植胚芽"}, 
+		{"key":"ID_APP_SUMMARY", 		"value":"吃其他細菌並獲得生化評分, 成為最好的細菌！"}, 
+		{"key":"ID_APP_DETAIL", 		"value":"種植細菌是一種遊戲, 你可以吃其他細菌並獲得生化分數。 它可以生長多種細菌, 可以加強和進化。 用每次細菌進化時可以獲得的隨機能力製造出最好的細菌。 "}, 
+		                                        
+		{"key":"ID_LEVEL", 				"value":"水平"}, 
+        {"key":"ID_SIZE", 				"value":"尺寸"}, 
+		{"key":"ID_SPEED", 				"value":"速度"}, 
+		{"key":"ID_ATTACK", 			"value":"攻擊"}, 
+		{"key":"ID_SCORE", 				"value":"得分了"}, 
+		{"key":"ID_LEVEL_UP", 			"value":"加強"}, 
+		{"key":"ID_EVOLUTION", 			"value":"演化"}, 
+		{"key":"ID_EVOLUTION_INFO",		"value":"進化所需的胚芽攝入量"},
+		{"key":"ID_MAXIMUM", 			"value":"最大值"}, 
+		{"key":"ID_TRANS", 				"value":"超越"}, 
+		{"key":"ID_TRANS_INFO", 		"value":"如果你解鎖所有階段, 你可以超越。 然後你所獲得的分數將被初始化, 你將從第一階段開始。 但是, 每個階段的細菌進化所獲得的能力和獨特能力得以維持。 進化的獎勵生化分數獲得率也保持不變。 你的生化分數加成倍增。 "}, 
+		{"key":"ID_TRANS_MAG", 			"value":"生化分數獎金"}, 
+		{"key":"ID_RECON_TITLE", 		"value":"重新連接獎勵"}, 
+		{"key":"ID_RECON_EXP", 			"value":"你很長一段時間回來了！即使你不玩遊戲, 你的細菌也渴望吃其他細菌並產生生化分數。 "}, 
+		{"key":"ID_GET_SCORE", 			"value":"獲得生化評分"}, 
+		{"key":"ID_GET", 				"value":"得到"}, 
+		{"key":"ID_WARNING", 			"value":"警告"}, 
+		{"key":"ID_COMBO", 				"value":"二合一！"}, 
+		{"key":"ID_FERM_BOUNUS", 		"value":"發酵獎金"}, 
+		{"key":"ID_COMING_SOON", 		"value":"快來了"}, 
+		{"key":"ID_QUIT_TITLE", 		"value":"遊戲退出"}, 
+		{"key":"ID_QUIT_CONTEENTS", 	"value":"你真的放棄了比賽嗎？"}, 
+		{"key":"ID_YES", 				"value":"是"}, 
+		{"key":"ID_NO", 				"value":"沒有"}, 
+		{"key":"ID_SETTINGS", 			"value":"設置"}, 
+		{"key":"ID_MUSIC", 				"value":"聲音"}, 
+		{"key":"ID_LANGUAGE", 			"value":"語言"}, 
+		{"key":"ID_INFO", 				"value":"遊戲信息"}, 
+		{"key":"ID_CREDITS", 			"value":"信用"}, 
+		{"key":"ID_EVALUATION",			"value":"評估"},
+		{"key":"ID_EVALUATION_INFO",	"value":"你玩的高興嗎？ 如果遊戲很有趣, 請5星！ 這對獨立遊戲開發者來說是一個強大的力量！ 評估後, 將在10分鐘內添加助推器效果！"},
+		{"key":"ID_ADS_WAIT",			"value":"正在準備廣告。 請稍後再試。"},
+		{"key":"ID_SUPPORT",			"value":"支持"},
+		{"key":"ID_SUPPORT_INFO",		"value":"嗨. Eun Woo爸爸, 這是John Park。 如果你對你的心印象深刻, 請按下面的按鈕。 我會用更好的遊戲回報你。"},
+		{"key":"ID_SUPPORT_1",			"value":"支持咖啡價值"},
+		{"key":"ID_SUPPORT_2",			"value":"支持嬰兒尿布價值"},
+		{"key":"ID_SUPPORT_3",			"value":"支持奶粉價值"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"我也歡迎能夠推進遊戲的想法, 反饋, 繪畫等。\nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"謝謝。"},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"非常感謝你。 我會用更好的遊戲獎勵您。 我會給你一點時間。"},
+		{"key":"ID_CONFIRM",			"value":"確認"},
+		                                        				                                
+		{"key":"ID_SUPER", 				"value":"超"}, 
+		{"key":"ID_IMMUNE", 			"value":"免疫"}, 
+		{"key":"ID_MUTATION", 			"value":"突變"}, 
+		{"key":"ID_MASTER", 			"value":"主"}, 
+		                                        
+		{"key":"ID_SUPER_GERM_AB", 		"value":"超級胚芽能力"}, 
+		{"key":"ID_IMMUNE_GERM_AB", 	"value":"免疫胚芽能力"}, 
+		{"key":"ID_MUTATION_GERM_AB", 	"value":"突變細菌能力"}, 
+		{"key":"ID_UNIQUE_AB", 			"value":"獨特能力"}, 
+		                                        
+		{"key":"ID_GUIDE0", 			"value":"細菌會自動追踪比自己小的細菌。 如果你遇到大細菌, 就不能吃它。 當你觸摸屏幕時, 細菌在那裡跑得更快。 "}, 
+		{"key":"ID_GUIDE1", 			"value":"一旦生化分數達到一定水平, 你可以通過按[加強]按鈕加強細菌。 你可以增加體型, 速度, 攻擊和額外的採集生化評分。 "}, 
+		{"key":"ID_GUIDE2", 			"value":"體積越大, 可以食用的胚芽越大, 速度越快, 細菌跟隨其他細菌的速度就越快。 增加的攻擊可以對老闆細菌造成更大的傷害。 "}, 
+		{"key":"ID_GUIDE3", 			"value":"除了普通的細菌外, 還會出現紅色的特殊細菌。 如果吃這些細菌, 就會產生隨機效果。 "}, 
+		{"key":"ID_GUIDE4", 			"value":"階段性的老鼠胚芽出現在舞台上, 你可以通過擊打或觸摸擊敗老闆細菌。 擊敗老闆細菌可以導致大量的生化分數。 "}, 
+		{"key":"ID_GUIDE5", 			"value":"通過進化細菌, 你可以隨機獲得特殊能力。 進化有四個層次：超級細菌 - 免疫細菌 - 變異細菌 - 胚芽細菌。 隨著細菌的進化, 它們獲得更好的能力。 同時在所有階段永久地提高你的生化評分減少5％。 "}, 
+		                                        
+		{"key":"ID_STAGE1", 			"value":"胚芽"}, 
+		{"key":"ID_STAGE1_EXP", 		"value":"細菌比自己吃更小的細菌, 並獲得生化分數。 現在解開你的第一個胚芽！"}, 
+		{"key":"ID_STAGE2", 			"value":"大腸桿菌"}, 
+		{"key":"ID_STAGE2_EXP", 		"value":"大腸桿菌是在溫血動物的腸（大腸和小腸）中發現的常見細菌"}, 
+		{"key":"ID_STAGE3", 			"value":"炭疽病"}, 
+		{"key":"ID_STAGE3_EXP", 		"value":"它是由炭疽芽孢桿菌孢子引起的傳染病之一。 它引起皮膚炎症, 呼吸困難和腸道炎症。 "}, 
+		{"key":"ID_STAGE4", 			"value":"葡萄球菌"}, 
+		{"key":"ID_STAGE4_EXP", 		"value":"金黃色葡萄球菌似乎是一群微觀葡萄。 葡萄糖厭氧分解產生酸。 "}, 
+		{"key":"ID_STAGE5", 			"value":"霍亂弧菌"}, 
+		{"key":"ID_STAGE5_EXP", 		"value":"霍亂可能是由未經烹煮或未煮熟的海鮮引起的, 這種海鮮可能在烹飪或用手污染的食物攝入時發生。 通常會被糞便或嘔吐物污染的食物或水感染。 如果感染了, 就會導致腹瀉和脫水。  "}, 
+		{"key":"ID_STAGE6", 			"value":"空洞"}, 
+		{"key":"ID_STAGE6_EXP", 		"value":"口腔中的細菌生長在牙齒和牙齦之間的食物或牙齦上, 唾液粘在一起形成腫塊。 腫塊是牙菌斑。 牙菌斑是一種粘性細菌, 是一種破壞牙齦的牙齦。 隨著更多斑塊的積聚更多的毒素攻擊牙齦, 刺激牙齦, 導致蛀牙。 牙齒腐爛導致牙齒變黑或變色。 "}, 
+		{"key":"ID_STAGE7", 			"value":"乳酸菌"}, 
+		{"key":"ID_STAGE7_EXP", 		"value":"它是發酵食品中常見的真菌。 它具有釋放酸以殺死其他細菌的特性。 但是, 如果這種狀態持續並且酸度變得太低, 它們可能會死於它們分泌的乳酸。 "}, 
+		{"key":"ID_STAGE8", 			"value":"蘑菇真菌"}, 
+		{"key":"ID_STAGE8_EXP", 		"value":"蘑菇是一種帶有麻袋和肩膀的菌絲。 蘑菇有可以吃的蘑菇和有毒的蘑菇。 蘑菇是多細胞的, 可以產生有性繁殖或無性繁殖。 蘑菇也與植物有著密切的友誼。 主要形成一種關係交換營養。 "}, 
+		{"key":"ID_STAGE9", 			"value":"青黴"}, 
+		{"key":"ID_STAGE9_EXP", 		"value":"青黴菌在家庭中也很常見。 有些物種會產生稱為青黴素的抗生素。 某些類型的青黴素也被用來製作藍紋奶酪等發酵食品。 "}, 
+		{"key":"ID_STAGE10", 			"value":"精子"}, 
+		{"key":"ID_STAGE10_EXP", 		"value":"它指的是雄性動物的生殖細胞。 一個精子具有35.4 MB的遺傳信息, 因此一旦射精就會發送大約1PB的信息, 並且它包含許多各種成分, 如蛋白質/鈣在0-之間1卡路里。 這就是精子的組成部分, 並不是精液含有豐富的蛋白質和鈣。 "}, 
+		
+		{"key":"ID_ST_GINT", 			"value":"在很大程度上"}, 
+		{"key":"ID_ST_GINT_EXP", 		"value":"大小+5"}, 
+		{"key":"ID_ST_HASTE", 			"value":"急速"}, 
+		{"key":"ID_ST_HASTE_EXP", 		"value":"速度200％"}, 
+		{"key":"ID_ST_ACUMEN", 			"value":"敏銳"}, 
+		{"key":"ID_ST_ACUMEN_EXP", 		"value":"攻擊200％"}, 
+		{"key":"ID_ST_GLUE", 			"value":"饞嘴"}, 
+		{"key":"ID_ST_GLUE_EXP", 		"value":"無論大小, 所有細菌都可以吃"}, 
+		{"key":"ID_ST_ANGEL", 			"value":"天使"}, 
+		{"key":"ID_ST_ANGEL_EXP", 		"value":"獲得的生化評分為200％至300％"}, 
+		{"key":"ID_ST_SMALL", 			"value":"小"}, 
+		{"key":"ID_ST_SMALL_EXP", 		"value":"大小50％"}, 
+		{"key":"ID_ST_WEB", 			"value":"蜘蛛網"}, 
+		{"key":"ID_ST_WEB_EXP", 		"value":"速度50％"}, 
+		{"key":"ID_ST_PARAL", 			"value":"麻痺"}, 
+		{"key":"ID_ST_PARAL_EXP", 		"value":"不能動"}, 
+		{"key":"ID_ST_DRUNK", 			"value":"死酗酒"}, 
+		{"key":"ID_ST_DRUNK_EXP", 		"value":"運動絆倒"}, 
+		{"key":"ID_ST_ANOREX", 			"value":"厭食症"}, 
+		{"key":"ID_ST_ANOREX_EXP", 		"value":"所有細菌, 無論大小, 都不能消耗"}, 
+		{"key":"ID_ST_DEVIL", 			"value":"魔鬼"}, 
+		{"key":"ID_ST_DEVIL_EXP", 		"value":"獲得的生化評分為10％至5​​0％"}, 
+		{"key":"ID_ST_AROUS", 			"value":"覺醒"}, 
+		{"key":"ID_ST_AROUS_EXP", 		"value":"增加所有統計數據, 提高生化分數, 所有胚芽都可以吃"}, 
+		{"key":"ID_ST_POISON", 			"value":"毒蘑菇"}, 
+		{"key":"ID_ST_POISON_EXP", 		"value":"速度50％"}, 
+		{"key":"ID_ST_SHII", 			"value":"香菇"}, 
+		{"key":"ID_ST_SHII_EXP", 		"value":"速度200％"}, 
+		{"key":"ID_ST_MATSU", 			"value":"松茸蘑菇"}, 
+		{"key":"ID_ST_MATSU_EXP", 		"value":"攻擊200％"}, 
+		{"key":"ID_ST_OYSTER", 			"value":"平菇"}, 
+		{"key":"ID_ST_OYSTER_EXP", 		"value":"大小+5"}, 
+		{"key":"ID_ST_WINTER", 			"value":"冬菇"}, 
+		{"key":"ID_ST_WINTER_EXP", 		"value":"獲得生化分數200％"}, 
+		{"key":"ID_ST_WOOD", 			"value":"木耳蘑菇"}, 
+		{"key":"ID_ST_WOOD_EXP", 		"value":"對老闆細菌的傷害500％"}, 
+		{"key":"ID_ST_KOREAN", 			"value":"韓國巨型蘑菇"}, 
+		{"key":"ID_ST_KOREAN_EXP", 		"value":"特殊細菌的發生率500％"}, 
+		{"key":"ID_ST_TRUF", 			"value":"松露"}, 
+		{"key":"ID_ST_TRUF_EXP", 		"value":"細菌出現率500％"}, 
+		                                        
+		{"key":"ID_AV_RIDER", 			"value":"騎士"}, 
+		{"key":"ID_AV_RIDER_EXP", 		"value":"速度+10"}, 
+		{"key":"ID_AV_GEMB", 			"value":"賭徒"}, 
+		{"key":"ID_AV_GEMB_EXP", 		"value":"獲得生化評分50％至200％"}, 
+		{"key":"ID_AV_BERS", 			"value":"狂戰士"}, 
+		{"key":"ID_AV_BERS_EXP", 		"value":"攻擊+10"}, 
+		{"key":"ID_AV_BODY", 			"value":"健美先生"}, 
+		{"key":"ID_AV_BODY_EXP", 		"value":"大小+10"}, 
+		{"key":"ID_AV_COLL", 			"value":"集電極"}, 
+		{"key":"ID_AV_COLL_EXP", 		"value":"出現特殊細菌150％的可能性"}, 
+		{"key":"ID_AV_LOCK", 			"value":"鎖上"}, 
+		{"key":"ID_AV_LOCK_EXP", 		"value":"細菌湧向玩家胚芽"}, 
+		{"key":"ID_AV_FROZ", 			"value":"凍結"}, 
+		{"key":"ID_AV_FROZ_EXP", 		"value":"常見細菌的速度慢30％"}, 
+		{"key":"ID_AV_BUFF", 			"value":"緩衝"}, 
+		{"key":"ID_AV_BUFF_EXP", 		"value":"將buff的持續時間延長15秒"}, 
+		{"key":"ID_AV_REGI", 			"value":"抵抗性"}, 
+		{"key":"ID_AV_REGI_EXP", 		"value":"將debuff的持續時間減少15秒"}, 
+		{"key":"ID_AV_HUNT", 			"value":"獵人"}, 
+		{"key":"ID_AV_HUNT_EXP", 		"value":"對老闆細菌的傷害200％"}, 
+		{"key":"ID_AV_CSPOON", 			"value":"銅勺"}, 
+		{"key":"ID_AV_CSPOON_EXP", 		"value":"獲得生化分數120％"}, 
+		{"key":"ID_AV_LASSO", 			"value":"套索"}, 
+		{"key":"ID_AV_LASSO_EXP", 		"value":"將特殊細菌的速度降低50％"}, 
+		{"key":"ID_AV_DOMI",			"value":"顯性基因"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"進化所需的細菌攝入減少30％"},
+		                                        
+		{"key":"ID_AV_MAGN", 			"value":"磁"}, 
+		{"key":"ID_AV_MAGN_EXP", 		"value":"小細菌進入了一點點"}, 
+		{"key":"ID_AV_BOMB", 			"value":"炸彈"}, 
+		{"key":"ID_AV_BOMB_EXP", 		"value":"以一定的概率轟炸它, 當你擊中大細菌時將它變成小細菌"}, 
+		{"key":"ID_AV_GOHST", 			"value":"鬼"}, 
+		{"key":"ID_AV_GOHST_EXP", 		"value":"通過而不會遇到大細菌"}, 
+		{"key":"ID_AV_SSPOON", 			"value":"銀勺"}, 
+		{"key":"ID_AV_SSPOON_EXP", 		"value":"獲得生化分數150％"}, 
+		{"key":"ID_AV_AGRO", 			"value":"挑釁"}, 
+		{"key":"ID_AV_AGRO_EXP", 		"value":"細菌代150％"}, 
+		{"key":"ID_AV_FORTU", 			"value":"幸運"}, 
+		{"key":"ID_AV_FORTU_EXP", 		"value":"吸收特殊細菌300％時服用buff的概率"}, 
+		{"key":"ID_AV_MATRIX", 			"value":"矩陣"}, 
+		{"key":"ID_AV_MATRIX_EXP", 		"value":"玩家細菌附近的細菌很慢"}, 
+		{"key":"ID_AV_NEMES", 			"value":"復仇女神"}, 
+		{"key":"ID_AV_NEMES_EXP", 		"value":"護堤小於玩家胚芽的概率是300％"}, 
+		{"key":"ID_AV_ADVER", 			"value":"廣告客戶"}, 
+		{"key":"ID_AV_ADVER_EXP", 		"value":"廣告效果增加10秒, 冷卻時間減少10秒"}, 
+		{"key":"ID_AV_SWOOP", 			"value":"飛撲"}, 
+		{"key":"ID_AV_SWOOP_EXP", 		"value":"老闆胚芽的HP降低了30％"}, 
+		{"key":"ID_AV_RADAR", 			"value":"雷達"}, 
+		{"key":"ID_AV_RADAR_EXP", 		"value":"老闆產卵時間減少了30秒"}, 
+		{"key":"ID_AV_GROUP", 			"value":"集體狩獵"}, 
+		{"key":"ID_AV_GROUP_EXP", 		"value":"出現的老闆胚芽+1的數量"}, 
+		{"key":"ID_AV_NEGO", 			"value":"談判"}, 
+		{"key":"ID_AV_NEGO_EXP", 		"value":"重聯生化評分增加10％"}, 
+		                                        
+		{"key":"ID_AV_DOPP", 			"value":"幽靈"}, 
+		{"key":"ID_AV_DOPP_EXP", 		"value":"細菌重複"}, 
+		{"key":"ID_AV_TOPP", 			"value":"頂級捕食者"}, 
+		{"key":"ID_AV_TOPP_EXP", 		"value":"無論大小如何, 都可以攝取胚芽"}, 
+		{"key":"ID_AV_MAGIC", 			"value":"寶袋"}, 
+		{"key":"ID_AV_MAGIC_EXP", 		"value":"當老闆胚芽死亡1000％時出來的物品"}, 
+		{"key":"ID_AV_GSPOON", 			"value":"金勺子"}, 
+		{"key":"ID_AV_GSPOON_EXP", 		"value":"獲得生化分數200％"}, 
+		{"key":"ID_AV_ALCHE", 			"value":"煉金術士"}, 
+		{"key":"ID_AV_ALCHE_EXP", 		"value":"玩家細菌每2秒就會用導彈射出, 被導彈擊中的物體會變成金色。 如果吸收了變成黃金的物體, 生化分數為1000％"}, 
+		{"key":"ID_AV_COMBO", 			"value":"二合一"}, 
+		{"key":"ID_AV_COMBO_EXP", 		"value":"連續攝入的細菌會增加所獲得的生化分數。如果您沒有得分2秒, 則重置組合。"}, 
+		{"key":"ID_AV_SALE", 			"value":"加固滾動"}, 
+		{"key":"ID_AV_SALE_EXP", 		"value":"加固成本降低50％"}, 
+		                                        
+		{"key":"ID_AV_CELL", 			"value":"細胞分裂"}, 
+		{"key":"ID_AV_CELL_EXP", 		"value":"胚芽數x2, 大小80％"}, 
+		{"key":"ID_AV_AROSU", 			"value":"喚醒藥水"}, 
+		{"key":"ID_AV_AROSU_EXP", 		"value":"舞台每分鐘獲得1次喚醒藥水, 並獲得攝入後可獲得的所有增益效果"}, 
+		{"key":"ID_AV_ANTH", 			"value":"炭疽病"}, 
+		{"key":"ID_AV_ANTH_EXP", 		"value":"傳播炭疽氣體, 將氣體細菌帶入炭疽病。 炭疽感染的細菌在短時間內分成幾個片段。 "}, 
+		{"key":"ID_AV_GLUCO", 			"value":"葡萄糖噴霧"}, 
+		{"key":"ID_AV_GLUCO_EXP", 		"value":"噴灑葡萄糖。 每當一個老鼠胚芽服用一粒葡萄糖時, 每次它死亡時都會掉下一粒。 "}, 
+		{"key":"ID_AV_COMMA", 			"value":"霍亂感染"}, 
+		{"key":"ID_AV_COMMA_EXP", 		"value":"胚芽不能再被攝取了, 被擊中的細菌感染了霍亂。 感染霍亂的胚芽繼續發出生化分數"}, 
+		{"key":"ID_AV_ROTTON", 			"value":"爛牙"}, 
+		{"key":"ID_AV_ROTTON_EXP", 		"value":"一個乾淨的牙齒出現在舞台上, 當細菌被擊中時, 它會變黑。 當所有牙齒腐爛時, 它會爆炸並獲得大量生化分數"}, 
+		{"key":"ID_AV_FERMEN", 			"value":"發酵"}, 
+		{"key":"ID_AV_FERMEN_EXP", 		"value":"當玩家胚芽不吃其他細菌時開始發酵。 當吃其他胚芽時, 初始化發酵並根據發酵程度獲得額外的生化分數"}, 
+		{"key":"ID_AV_SPORE", 			"value":"孢子"}, 
+		{"key":"ID_AV_SPORE_EXP", 		"value":"孢子在規律的時間間隔蔓延, 蘑菇在特定的地方生長。 蘑菇通過食用其他細菌生長, 當玩家的細菌接觸它們時爆炸, 並釋放生化分數。 "}, 
+		{"key":"ID_AV_PENIC", 			"value":"青黴素"}, 
+		{"key":"ID_AV_PENIC_EXP", 		"value":"強效抗生素應用於所有階段, 殺死所有其他細菌, 除了玩家胚芽和老闆胚芽, 並將它們轉換為生化分數"}, 
+		{"key":"ID_AV_OVUL", 			"value":"排卵"}, 
+		{"key":"ID_AV_OVUL_EXP", 		"value":"將卵細胞放在舞台上。 所有的精子都沖向卵細胞。 當玩家胚芽和卵細胞受精時, 會得到巨大的生化分數"}, 
+		
+		{"key":"LAST", 					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

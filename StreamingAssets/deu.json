@@ -1,0 +1,348 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME",			"value":"Grow Germ"},
+		{"key":"ID_APP_SUMMARY",		"value":"Iss andere Keime und bekomme eine biochemische Bewertung, um der beste Keim zu werden!"},
+		{"key":"ID_APP_DETAIL",			"value":"Grow germs ist ein Spiel, in dem Sie andere Keime fressen und biochemische Bewertungen erhalten. Es kann viele Arten von Keimen anbauen und sich stärken und entwickeln. Machen Sie den besten Keim mit den zufälligen Fähigkeiten, die Sie bei jeder Keimentwicklung bekommen können."},
+		                                        
+		{"key":"ID_LEVEL",				"value":"Niveau"},
+        {"key":"ID_SIZE",				"value":"Größe"},
+		{"key":"ID_SPEED",				"value":"Geschwindigkeit"},
+		{"key":"ID_ATTACK",				"value":"Attacke"},
+		{"key":"ID_SCORE",				"value":"Ergebnis"},
+		{"key":"ID_LEVEL_UP",			"value":"Verstärken"},
+		{"key":"ID_EVOLUTION",			"value":"Evolution"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"Keimaufnahme erforderlich für die Evolution"},
+		{"key":"ID_MAXIMUM",			"value":"Maximal"},
+		{"key":"ID_TRANS",				"value":"Transzendenz"},
+		{"key":"ID_TRANS_INFO",			"value":"Wenn Sie alle Stufen freischalten, können Sie transzendieren. Dann werden die bisher erzielten Ergebnisse initialisiert und Sie beginnen mit Stufe 1. Die Fähigkeit und die einzigartige Fähigkeit, die durch die Evolution jeder Stufe des Keims erlangt wird, bleibt jedoch erhalten. Alle Auch die Bonusrate der biochemischen Punktzahl durch die Evolution wird beibehalten. Ihr Bonus für die biochemische Punktzahl wird verdoppelt. "},
+		{"key":"ID_TRANS_MAG",			"value":"Bonus für biochemische Punkte"},
+		{"key":"ID_RECON_TITLE",		"value":"Wiederverbindungsbelohnung"},
+		{"key":"ID_RECON_EXP",			"value":"Sie sind seit langer Zeit zurückgekommen! NIhre Keime möchten andere Keime fressen und biochemische Ergebnisse erzielen, selbst wenn Sie keine Spiele spielen."},
+		{"key":"ID_GET_SCORE",			"value":"Erworbene biochemische Bewertung"},
+		{"key":"ID_GET",				"value":"Erhalten"},
+		{"key":"ID_WARNING",			"value":"WARNUNG"},
+		{"key":"ID_COMBO",				"value":"Combo!"},
+		{"key":"ID_FERM_BOUNUS",		"value":"Fermentationsbonus"},
+		{"key":"ID_COMING_SOON",		"value":"Demnächst"},
+		{"key":"ID_QUIT_TITLE",			"value":"Spiel beendet"},
+		{"key":"ID_QUIT_CONTEENTS",		"value":"Hast du das Spiel wirklich beendet?"},
+		{"key":"ID_YES",				"value":"Ja"},
+		{"key":"ID_NO",					"value":"Nein"},
+		{"key":"ID_SETTINGS",			"value":"Die Einstellungen"},
+		{"key":"ID_MUSIC",				"value":"Klingen"},
+		{"key":"ID_LANGUAGE",			"value":"Sprache"},
+		{"key":"ID_INFO",				"value":"Spiel Information"},
+		{"key":"ID_CREDITS",			"value":"Credits"},
+		{"key":"ID_EVALUATION",			"value":"Auswertung"},
+		{"key":"ID_EVALUATION_INFO",	"value":"Hast du Spaß? Wenn das Spiel Spaß macht, bitte 5 Sterne! Es ist eine großartige Leistung für unabhängige Spieleentwickler! Der Booster-Effekt wird für 10 Minuten nach der Auswertung hinzugefügt!"},
+		{"key":"ID_ADS_WAIT",			"value":"Werbung wird vorbereitet. Bitte versuchen Sie es in einem Moment erneut."},
+		{"key":"ID_SUPPORT",			"value":"Unterstützung"},
+		{"key":"ID_SUPPORT_INFO",		"value":"Hi. Eun Woo Dad, das ist John Park. Wenn Sie von Ihrem Herzen beeindruckt sind, drücken Sie bitte den untenstehenden Button. Ich werde Ihnen ein besseres Spiel zurückzahlen."},
+		{"key":"ID_SUPPORT_1",			"value":"Kaffeewert unterstützen"},
+		{"key":"ID_SUPPORT_2",			"value":"Babywindelwert unterstützen"},
+		{"key":"ID_SUPPORT_3",			"value":"Milchpulverwert unterstützen"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"Ich freue mich auch über Ideen, Feedbacks, Zeichnungen usw., die das Spiel vorantreiben werden. \nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"Vielen Dank."},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"Vielen Dank. Ich werde dich mit einem besseren Spiel belohnen. Ich werde Ihnen eine kleine Auffrischungszeit geben."},
+		{"key":"ID_CONFIRM",			"value":"Bestätigen"},
+
+		{"key":"ID_SUPER",				"value":"Super"},
+		{"key":"ID_IMMUNE",				"value":"Immun"},
+		{"key":"ID_MUTATION",			"value":"Mutation"},
+		{"key":"ID_MASTER",				"value":"Meister"},
+		                                        
+		{"key":"ID_SUPER_GERM_AB",		"value":"Super Germ-Fähigkeit"},
+		{"key":"ID_IMMUNE_GERM_AB",		"value":"Immunkeimfähigkeit"},
+		{"key":"ID_MUTATION_GERM_AB",	"value":"Mutationskeimfähigkeit"},
+		{"key":"ID_UNIQUE_AB",			"value":"Einzigartige Fähigkeit"},
+		                                        
+		{"key":"ID_GUIDE0",				"value":"Keime suchen automatisch nach kleinen Keimen, die kleiner sind als sie selbst. Wenn Sie einen großen Keim treffen, können Sie ihn nicht essen. Wenn Sie den Bildschirm berühren, laufen die Keime dort schneller."},
+		{"key":"ID_GUIDE1",				"value":"Wenn der biochemische Score ein bestimmtes Niveau erreicht hat, können Sie den Keim durch Drücken der Schaltfläche [Verstärken] verstärken. Sie können Größe, Geschwindigkeit, Angriff und zusätzliche biochemische Score-Werte erhöhen."},
+		{"key":"ID_GUIDE2",				"value":"Je größer die Größe, desto größer der Keim gefressen werden kann, desto schneller ist die Geschwindigkeit, desto schneller kann der Keim den anderen Keimen folgen. Erhöhte Angriffe können Boss-Keimen mehr Schaden zufügen."},
+		{"key":"ID_GUIDE3",				"value":"Neben gewöhnlichen Keimen treten spezielle rote Keime auf. Wenn Sie diese Keime essen, erhalten Sie einen zufälligen Effekt."},
+		{"key":"ID_GUIDE4",				"value":"In regelmäßigen Abständen erscheinen Bosskeime auf der Bühne, Sie können die Bosskeime durch Schlagen oder Berühren besiegen. Das Besiegen von Bosskeimen kann zu einer großen Anzahl biochemischer Bewertungen führen."},
+		{"key":"ID_GUIDE5",				"value":"Durch die Entwicklung von Keimen können Sie zufällige Spezialfähigkeiten erlangen. Es gibt vier Evolutionsstufen: Superkeim - Immunkeim - Mutantionskeim - Hauptkeim. Wenn sich die Keime entwickeln, gewinnen sie bessere Fähigkeiten. Erhöht außerdem Ihren biochemischen Wert auf allen Stufen um 5%. "},
+		                                        
+		{"key":"ID_STAGE1",				"value":"Keim"},
+		{"key":"ID_STAGE1_EXP",			"value":"Keime essen kleinere Keime als sie selbst und gewinnen biochemische Ergebnisse. Jetzt können Sie Ihren ersten Keim freischalten!"},
+		{"key":"ID_STAGE2",				"value":"E coli"},
+		{"key":"ID_STAGE2_EXP",			"value":"Escherichia coli ist ein verbreiteter Keim im Darm (Dickdarm und Dünndarm) warmblütiger Tiere"},
+		{"key":"ID_STAGE3",				"value":"Milzbrand"},
+		{"key":"ID_STAGE3_EXP",			"value":"Es ist eine der Infektionskrankheiten, die durch Sporen von Bacillus anthracis verursacht werden. Sie verursacht Hautentzündungen, Dyspnoe und Darmentzündungen."},
+		{"key":"ID_STAGE4",				"value":"Staphylococcus"},
+		{"key":"ID_STAGE4_EXP",			"value":"Staphylococcus scheint ein Cluster von mikroskopischen Trauben zu sein. Anaerobe Zersetzung von Glukose unter Bildung von Säure."},
+		{"key":"ID_STAGE5",				"value":"Vibrio cholerae"},
+		{"key":"ID_STAGE5_EXP",			"value":"Cholera kann durch rohe oder untergekochte Meeresfrüchte verursacht werden, die beim Kochen oder Einnehmen von Speisen mit kontaminierten Händen auftreten können. Es ist üblich, sich durch Lebensmittel oder mit Kot oder Erbrochenem kontaminiertes Wasser anzustecken. Wenn Sie infiziert werden, leiden Sie an Durchfall und Austrocknung. "},
+		{"key":"ID_STAGE6",				"value":"Hohlräume"},
+		{"key":"ID_STAGE6_EXP",			"value":"Die Keime im Mund wachsen auf der Nahrung oder dem Zahnfleisch zwischen Zahn und Zahnfleisch, wobei der Speichel aneinander haftet und Klumpen bildet. Die Klumpen sind Plaque. Plaque, ein klebriges Bakterium, ist ein Zahnfleisch, das das Zahnfleisch zerstört. Je mehr Plaques sammeln sich an Weitere Giftstoffe greifen das Zahnfleisch an, reizen das Zahnfleisch und verursachen Karies. Karies führt dazu, dass die Zähne schwarz werden oder sich verfärben. "},
+		{"key":"ID_STAGE7",				"value":"Lactobacillus"},
+		{"key":"ID_STAGE7_EXP",			"value":"Es ist ein üblicher Pilz in fermentierten Lebensmitteln. Er hat die Eigenschaft, Säure freizusetzen, um andere Keime abzutöten. Wenn dieser Zustand jedoch andauert und der Säuregehalt zu niedrig wird, können sie an der von ihnen ausgeschiedenen Milchsäure sterben."},
+		{"key":"ID_STAGE8",				"value":"Pilzpilz"},
+		{"key":"ID_STAGE8_EXP",			"value":"Pilz ist ein Myzelium mit einem Sack und einer Schulter. Pilze haben Pilze, die gegessen werden können, und Pilze, die Gift enthalten. Pilze sind vielzellig und können sexuelle Fortpflanzung oder ungeschlechtliche Fortpflanzung bewirken. Pilze haben auch eine enge Freundschaft mit Pflanzen Nährstoffe auszutauschen. "},
+		{"key":"ID_STAGE9",				"value":"Penicillium"},
+		{"key":"ID_STAGE9_EXP",			"value":"Penicillium ist auch in Häusern üblich. Manche Arten produzieren Antibiotika, die Penicilline genannt werden. Bestimmte Arten von Penicillium werden auch zur Herstellung fermentierter Nahrungsmittel wie Blauschimmelkäse verwendet."},
+		{"key":"ID_STAGE10",			"value":"Sperma"},
+		{"key":"ID_STAGE10_EXP",		"value":"Es bezieht sich auf die Keimzelle eines männlichen Tieres. Ein Sperma verfügt über 35,4 MB genetische Informationen, so dass es nach der Ejakulation etwa 1 PB an Informationen sendet und es enthält viele verschiedene Bestandteile wie Protein / Kalzium zwischen 0 - 1 Kalorien. Das macht Sperma aus, es ist nicht so, dass der Samen reich an Eiweiß und Kalzium ist. "},
+		
+		{"key":"ID_ST_GINT",			"value":"Riesenbildung"},
+		{"key":"ID_ST_GINT_EXP",		"value":"Größe +5"},
+		{"key":"ID_ST_HASTE",			"value":"Eile"},
+		{"key":"ID_ST_HASTE_EXP",		"value":"Geschwindigkeit 200%"},
+		{"key":"ID_ST_ACUMEN",			"value":"Scharfsinn"},
+		{"key":"ID_ST_ACUMEN_EXP",		"value":"Angriff 200%"},
+		{"key":"ID_ST_GLUE",			"value":"Vielfraß"},
+		{"key":"ID_ST_GLUE_EXP",		"value":"Alle Keime können unabhängig von der Größe essen"},
+		{"key":"ID_ST_ANGEL",			"value":"Engel"},
+		{"key":"ID_ST_ANGEL_EXP",		"value":"Die erreichte biochemische Bewertung beträgt 200% bis 300%"},
+		{"key":"ID_ST_SMALL",			"value":"Verkleinerung"},
+		{"key":"ID_ST_SMALL_EXP",		"value":"Größe 50%"},
+		{"key":"ID_ST_WEB",				"value":"Spinnennetz"},
+		{"key":"ID_ST_WEB_EXP",			"value":"Geschwindigkeit 50%"},
+		{"key":"ID_ST_PARAL",			"value":"Lähmung"},
+		{"key":"ID_ST_PARAL_EXP",		"value":"Ich kann mich nicht bewegen"},
+		{"key":"ID_ST_DRUNK",			"value":"Tote Trunkenheit"},
+		{"key":"ID_ST_DRUNK_EXP",		"value":"Bewegung stolpern"},
+		{"key":"ID_ST_ANOREX",			"value":"Anorexie"},
+		{"key":"ID_ST_ANOREX_EXP",		"value":"Alle Keime können unabhängig von ihrer Größe nicht verzehrt werden"},
+		{"key":"ID_ST_DEVIL",			"value":"Teufel"},
+		{"key":"ID_ST_DEVIL_EXP",		"value":"Die erreichte biochemische Bewertung beträgt 10% bis 50%"},
+		{"key":"ID_ST_AROUS",			"value":"Erregung"},
+		{"key":"ID_ST_AROUS_EXP",		"value":"Alle Werte erhöhen, biochemische Bewertung erhöhen, alle Keime können essen"},
+		{"key":"ID_ST_POISON",			"value":"Giftpilz"},
+		{"key":"ID_ST_POISON_EXP",		"value":"Geschwindigkeit 50%"},
+		{"key":"ID_ST_SHII",			"value":"Shiitake Pilze"},
+		{"key":"ID_ST_SHII_EXP",		"value":"Geschwindigkeit 200%"},
+		{"key":"ID_ST_MATSU",			"value":"Matsutake-Pilze"},
+		{"key":"ID_ST_MATSU_EXP",		"value":"Angriff 200%"},
+		{"key":"ID_ST_OYSTER",			"value":"Austern Pilz"},
+		{"key":"ID_ST_OYSTER_EXP",		"value":"Größe +5"},
+		{"key":"ID_ST_WINTER",			"value":"Winterpilz"},
+		{"key":"ID_ST_WINTER_EXP",		"value":"Erworbene biochemische Bewertung 200%"},
+		{"key":"ID_ST_WOOD",			"value":"Holzohrpilz"},
+		{"key":"ID_ST_WOOD_EXP",		"value":"Schaden an Bosskeimen 500%"},
+		{"key":"ID_ST_KOREAN",			"value":"Koreanischer Riesenpilz"},
+		{"key":"ID_ST_KOREAN_EXP",		"value":"Die Häufigkeit des Auftretens eines speziellen Keims 500%"},
+		{"key":"ID_ST_TRUF",			"value":"Trüffel"},
+		{"key":"ID_ST_TRUF_EXP",		"value":"Die Rate des Auftretens von Keimen 500%"},
+		                                        
+		{"key":"ID_AV_RIDER",			"value":"Fahrer"},
+		{"key":"ID_AV_RIDER_EXP",		"value":"Geschwindigkeit +10"},
+		{"key":"ID_AV_GEMB",			"value":"Spieler"},
+		{"key":"ID_AV_GEMB_EXP",		"value":"Erworbene biochemische Bewertung 50% bis 200%"},
+		{"key":"ID_AV_BERS",			"value":"Berserker"},
+		{"key":"ID_AV_BERS_EXP",		"value":"Angriff +10"},
+		{"key":"ID_AV_BODY",			"value":"Bodybuilder"},
+		{"key":"ID_AV_BODY_EXP",		"value":"Größe +10"},
+		{"key":"ID_AV_COLL",			"value":"Kollektor"},
+		{"key":"ID_AV_COLL_EXP",		"value":"Auftrittswahrscheinlichkeit eines speziellen Keims 150%"},
+		{"key":"ID_AV_LOCK",			"value":"Lockon"},
+		{"key":"ID_AV_LOCK_EXP",		"value":"Keime eilen auf Spieler-Keime zu"},
+		{"key":"ID_AV_FROZ",			"value":"Gefroren"},
+		{"key":"ID_AV_FROZ_EXP",		"value":"Die Geschwindigkeit von gewöhnlichen Keimen ist 30% langsamer"},
+		{"key":"ID_AV_BUFF",			"value":"Puffer"},
+		{"key":"ID_AV_BUFF_EXP",		"value":"Erhöht die Dauer von Buffs um 15 Sekunden"},
+		{"key":"ID_AV_REGI",			"value":"Widerstand"},
+		{"key":"ID_AV_REGI_EXP",		"value":"Verringert die Dauer von Debuffs um 15 Sekunden"},
+		{"key":"ID_AV_HUNT",			"value":"Jäger"},
+		{"key":"ID_AV_HUNT_EXP",		"value":"Schaden an Bosskeimen 200%"},
+		{"key":"ID_AV_CSPOON",			"value":"Kupferlöffel"},
+		{"key":"ID_AV_CSPOON_EXP",		"value":"Erworbene biochemische Bewertung 120%"},
+		{"key":"ID_AV_LASSO",			"value":"Lasso"},
+		{"key":"ID_AV_LASSO_EXP",		"value":"Reduziert die Geschwindigkeit von Spezialkeimen um 50%"},
+		{"key":"ID_AV_DOMI",			"value":"Dominantes Gen"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"30% weniger Keimaufnahme für die Evolution erforderlich"},
+		                                        
+		{"key":"ID_AV_MAGN",			"value":"Magnetismus"},
+		{"key":"ID_AV_MAGN_EXP",		"value":"Kleine Keime kamen ein bisschen"},
+		{"key":"ID_AV_BOMB",			"value":"Bomberman"},
+		{"key":"ID_AV_BOMB_EXP",		"value":"Bomben Sie es mit einer bestimmten Wahrscheinlichkeit und machen Sie es zu kleinen Keimen, wenn Sie große Keime schlagen"},
+		{"key":"ID_AV_GOHST",			"value":"Geist"},
+		{"key":"ID_AV_GOHST_EXP",		"value":"Pass durch, ohne auf große Keime zu stoßen"},
+		{"key":"ID_AV_SSPOON",			"value":"Silberlöffel"},
+		{"key":"ID_AV_SSPOON_EXP",		"value":"Erworbene biochemische Bewertung 150%"},
+		{"key":"ID_AV_AGRO",			"value":"Provokation"},
+		{"key":"ID_AV_AGRO_EXP",		"value":"Keimgeneration 150%"},
+		{"key":"ID_AV_FORTU",			"value":"Glücklich"},
+		{"key":"ID_AV_FORTU_EXP",		"value":"Wahrscheinlichkeit einer Stärkung bei der Aufnahme von Spezialkeimen 300%"},
+		{"key":"ID_AV_MATRIX",			"value":"Matrix"},
+		{"key":"ID_AV_MATRIX_EXP",		"value":"Keime sind in der Nähe von Spielerkeimen sehr langsam"},
+		{"key":"ID_AV_NEMES",			"value":"Nemesis"},
+		{"key":"ID_AV_NEMES_EXP",		"value":"Die Wahrscheinlichkeit, dass ein Berg kleiner ist als der Spielerkeim, beträgt 300%"},
+		{"key":"ID_AV_ADVER",			"value":"Inserent"},
+		{"key":"ID_AV_ADVER_EXP",		"value":"Steigerung der Werbewirkung um 10 Sekunden, Abklingzeit um 10 Sekunden"},
+		{"key":"ID_AV_SWOOP",			"value":"Schlag"},
+		{"key":"ID_AV_SWOOP_EXP",		"value":"HP des Bosskeims wird um 30% reduziert"},
+		{"key":"ID_AV_RADAR",			"value":"Radar"},
+		{"key":"ID_AV_RADAR_EXP",		"value":"Boss Laichzeit um 30 Sekunden verringert"},
+		{"key":"ID_AV_GROUP",			"value":"Gruppenjagd"},
+		{"key":"ID_AV_GROUP_EXP",		"value":"Anzahl der auftretenden Bosskeime +1"},
+		{"key":"ID_AV_NEGO",			"value":"Unterhändler"},
+		{"key":"ID_AV_NEGO_EXP",		"value":"Biochemische Bewertung der Verbindung wieder um 10% gesteigert"},
+		                                        
+		{"key":"ID_AV_DOPP",			"value":"Doppelgänger"},
+		{"key":"ID_AV_DOPP_EXP",		"value":"Keime werden dupliziert"},
+		{"key":"ID_AV_TOPP",			"value":"Top Predator"},
+		{"key":"ID_AV_TOPP_EXP",		"value":"Keime können unabhängig von der Größe aufgenommen werden"},
+		{"key":"ID_AV_MAGIC",			"value":"Schatztasche"},
+		{"key":"ID_AV_MAGIC_EXP",		"value":"Der Gegenstand, der herauskommt, wenn der Bosskeim 1,000% stirbt"},
+		{"key":"ID_AV_GSPOON",			"value":"Goldlöffel"},
+		{"key":"ID_AV_GSPOON_EXP",		"value":"Erworbene biochemische Bewertung 200%"},
+		{"key":"ID_AV_ALCHE",			"value":"Alchimist"},
+		{"key":"ID_AV_ALCHE_EXP",		"value":"Spieler keimen alle 2 Sekunden mit einer Rakete aus und das von der Rakete getroffene Objekt ändert sich in Gold. Wenn ein Objekt absorbiert wird, das sich in Gold geändert hat, erreicht der biochemische Wert 1,000%"},
+		{"key":"ID_AV_COMBO",			"value":"Combo"},
+		{"key":"ID_AV_COMBO_EXP",		"value":"Die aufeinanderfolgende Keimaufnahme erhöht den biochemischen Score. Wenn Sie 2 Sekunden nicht punkten, wird die Combo zurückgesetzt."},
+		{"key":"ID_AV_SALE",			"value":"Bewehrungsschriftrolle"},
+		{"key":"ID_AV_SALE_EXP",		"value":"Reduzierte Kosten für die Verstärkung um 50%"},
+		                                        
+		{"key":"ID_AV_CELL",			"value":"Zellteilung"},
+		{"key":"ID_AV_CELL_EXP",		"value":"Keimzahl x2, Größe 80%"},
+		{"key":"ID_AV_AROSU",			"value":"Erregungstrank"},
+		{"key":"ID_AV_AROSU_EXP",		"value":"Das Stadium erhält 1 Erregungstrank pro Minute und alle Buff-Effekte, die bei Einnahme erzielt werden können"},
+		{"key":"ID_AV_ANTH",			"value":"Milzbrand"},
+		{"key":"ID_AV_ANTH_EXP",		"value":"Ausbreitung von Anthrax-Gas, das Keimen zu Anthrax bringt. Anthrax-infizierte Keime werden nach kurzer Zeit in mehrere Fragmente aufgeteilt."},
+		{"key":"ID_AV_GLUCO",			"value":"Glukosespray"},
+		{"key":"ID_AV_GLUCO_EXP",		"value":"Sprühen Sie Glukose herum. Jedes Mal, wenn ein Chefkeim eine Glukose nimmt, lässt er bei jedem Absterben einen Gegenstand fallen."},
+		{"key":"ID_AV_COMMA",			"value":"Cholera-Infektion"},
+		{"key":"ID_AV_COMMA_EXP",		"value":"Keime können nicht mehr aufgenommen werden, und der befallene Keim ist mit Cholera infiziert. Mit Cholera infizierte Keime emittieren weiterhin biochemische Ergebnisse"},
+		{"key":"ID_AV_ROTTON",			"value":"Fauler Zahn"},
+		{"key":"ID_AV_ROTTON_EXP",		"value":"Ein sauberer Zahn erscheint auf der Bühne, und wenn der Keim getroffen wird, rotiert er schwarz. Er explodiert und erhält viele biochemische Bewertungen, wenn alle Zähne verrotten."},
+		{"key":"ID_AV_FERMEN",			"value":"Fermentation"},
+		{"key":"ID_AV_FERMEN_EXP",		"value":"Die Fermentation beginnt, wenn die Keime des Spielers keine anderen Keime fressen. Wenn andere Keime gegessen werden, wird die Fermentation initialisiert und es werden zusätzliche biochemische Bewertungen in Abhängigkeit von dem vorhandenen Fermentationsgrad erhalten."},
+		{"key":"ID_AV_SPORE",			"value":"Spore"},
+		{"key":"ID_AV_SPORE_EXP",		"value":"Die Sporen breiten sich in regelmäßigen Abständen aus und Pilze wachsen an bestimmten Stellen. Der Pilz wächst, indem er andere Keime frisst, explodiert, wenn der Keim des Spielers sie erreicht, und setzt biochemische Bewertungen frei."},
+		{"key":"ID_AV_PENIC",			"value":"Penicillin"},
+		{"key":"ID_AV_PENIC_EXP",		"value":"Starke Antibiotika, die auf allen Stufen angewendet werden, töten alle anderen Keime außer Spielerkeimen und Bosskeimen und wandeln sie in biochemische Werte um"},
+		{"key":"ID_AV_OVUL",			"value":"Ovulation"},
+		{"key":"ID_AV_OVUL_EXP",		"value":"Leg die Eizelle auf die Bühne. Alle Spermien stürzen in die Eizelle. Wenn der Keim des Spielers und die Eizelle befruchtet sind, erhältst du eine riesige biochemische Bewertung"},
+		
+		{"key":"LAST",					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

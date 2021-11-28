@@ -1,0 +1,348 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME",			"value":"Cultiver le germe"},
+		{"key":"ID_APP_SUMMARY",		"value":"Manger d’autres germes et obtenir un score biochimique pour devenir le meilleur germe!"},
+		{"key":"ID_APP_DETAIL",			"value":"Cultiver des germes est un jeu dans lequel vous mangez d'autres germes et obtenez des scores biochimiques. Il peut développer de nombreux types de germes et peut se renforcer et évoluer. Créez le meilleur germe avec les capacités aléatoires que vous pouvez obtenir chaque fois qu'un germe évolue."},
+		                                        
+		{"key":"ID_LEVEL",				"value":"Niveau"},
+        {"key":"ID_SIZE",				"value":"Taille"},
+		{"key":"ID_SPEED",				"value":"La vitesse"},
+		{"key":"ID_ATTACK",				"value":"Attaque"},
+		{"key":"ID_SCORE",				"value":"But"},
+		{"key":"ID_LEVEL_UP",			"value":"Renforcer"},
+		{"key":"ID_EVOLUTION",			"value":"Évolution"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"Apport en germes nécessaire à l'évolution"},
+		{"key":"ID_MAXIMUM",			"value":"Maximum"},
+		{"key":"ID_TRANS",				"value":"Transcendance"},
+		{"key":"ID_TRANS_INFO",			"value":"Si vous déverrouillez toutes les étapes, vous pouvez transcender. Ensuite, les scores que vous avez obtenus jusqu’à présent seront initialisés et vous commencerez à partir de l’étape 1. Cependant, la capacité et la capacité unique acquises par l’évolution de chaque stade du germe seront conservées. Le taux d'acquisition du score biochimique par évolution est également maintenu. Votre bonus au score biochimique est double."},
+		{"key":"ID_TRANS_MAG",			"value":"Bonus de score biochimique"},
+		{"key":"ID_RECON_TITLE",		"value":"Récompense de reconnexion"},
+		{"key":"ID_RECON_EXP",			"value":"Vous êtes revenu depuis longtemps! NVos microbes sont désireux de manger d'autres germes et de produire des scores biochimiques même lorsque vous ne jouez pas à des jeux."},
+		{"key":"ID_GET_SCORE",			"value":"Score biochimique acquis"},
+		{"key":"ID_GET",				"value":"Obtenir"},
+		{"key":"ID_WARNING",			"value":"ATTENTION"},
+		{"key":"ID_COMBO",				"value":"Combo!"},
+		{"key":"ID_FERM_BOUNUS",		"value":"Bonus de fermentation"},
+		{"key":"ID_COMING_SOON",		"value":"Arrive bientôt"},
+		{"key":"ID_QUIT_TITLE",			"value":"Quitter le jeu"},
+		{"key":"ID_QUIT_CONTEENTS",		"value":"Est-ce que tu quittes vraiment le jeu?"},
+		{"key":"ID_YES",				"value":"Oui"},
+		{"key":"ID_NO",					"value":"Non"},
+		{"key":"ID_SETTINGS",			"value":"Réglages"},
+		{"key":"ID_MUSIC",				"value":"Du son"},
+		{"key":"ID_LANGUAGE",			"value":"La langue"},
+		{"key":"ID_INFO",				"value":"Informations sur le jeu"},
+		{"key":"ID_CREDITS",			"value":"Crédits"},
+		{"key":"ID_EVALUATION",			"value":"Évaluation"},
+		{"key":"ID_EVALUATION_INFO",	"value":"Est-ce que tu t'amuses? Si le jeu est amusant, 5 étoiles s'il vous plaît! C'est un grand pouvoir pour les développeurs de jeux indépendants !! L'effet Booster sera ajouté pendant 10 minutes après l'évaluation!"},
+		{"key":"ID_ADS_WAIT",			"value":"La publicité est en préparation. Veuillez réessayer dans quelques instants."},
+		{"key":"ID_SUPPORT",			"value":"Soutien"},
+		{"key":"ID_SUPPORT_INFO",		"value":"Salut. Eun Woo Papa, c'est John Park. Si ton cœur t'impressionne, appuie sur le bouton ci-dessous. Je te rembourserai pour un meilleur jeu."},
+		{"key":"ID_SUPPORT_1",			"value":"Valeur du café de soutien"},
+		{"key":"ID_SUPPORT_2",			"value":"Valeur du support de couche pour bébé"},
+		{"key":"ID_SUPPORT_3",			"value":"Valeur de soutien du lait en poudre"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"Je souhaite également des idées, des retours, des dessins, etc. qui feront avancer le jeu. \nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"Je vous remercie."},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"Merci beaucoup. Je vous récompenserai avec un meilleur jeu. Je vais vous donner un petit temps de rappel."},
+		{"key":"ID_CONFIRM",			"value":"Confirmer"},
+
+		{"key":"ID_SUPER",				"value":"Super"},
+		{"key":"ID_IMMUNE",				"value":"Immunitaire"},
+		{"key":"ID_MUTATION",			"value":"Mutation"},
+		{"key":"ID_MASTER",				"value":"Maîtriser"},
+		                                        
+		{"key":"ID_SUPER_GERM_AB",		"value":"Capacité du super germe"},
+		{"key":"ID_IMMUNE_GERM_AB",		"value":"Capacité immunitaire des germes"},
+		{"key":"ID_MUTATION_GERM_AB",	"value":"Capacité du germe de mutation"},
+		{"key":"ID_UNIQUE_AB",			"value":"Capacité unique"},
+		                                        
+		{"key":"ID_GUIDE0",				"value":"Les germes s'attaquent automatiquement aux petits germes plus petits qu'eux. Si vous touchez un gros germe, vous ne pourrez pas le manger. Lorsque vous touchez l'écran, les germes courent plus vite."},
+		{"key":"ID_GUIDE1",				"value":"Une fois que le score biochimique atteint un certain niveau, vous pouvez renforcer le germe en appuyant sur le bouton [Renforcer]. Vous pouvez augmenter la taille, la vitesse, l'attaque et le score biochimique d'acquisition supplémentaire."},
+		{"key":"ID_GUIDE2",				"value":"Plus la taille est grande, plus le germe peut être mangé grand, plus la vitesse est rapide, plus le germe peut suivre les autres germes plus rapidement. Des attaques plus importantes peuvent causer plus de dégâts aux germes génitaux."},
+		{"key":"ID_GUIDE3",				"value":"En plus des germes ordinaires, des germes spéciaux de couleur rouge apparaissent. Si vous mangez ces germes, vous obtenez un effet aléatoire."},
+		{"key":"ID_GUIDE4",				"value":"De temps en temps, des germes de boss apparaissent sur la scène, vous pouvez vaincre les germes de boss en frappant ou en touchant. Vaincre les germes de boss peut entraîner une grande quantité de scores biochimiques."},
+		{"key":"ID_GUIDE5",				"value":"En faisant évoluer les germes, vous pouvez obtenir des compétences spéciales au hasard. Il existe quatre niveaux d'évolution: super germes - germes immuns - germes de germes mutants de germe mutantion. Au fur et à mesure de leur évolution, les germes acquièrent de plus en plus d'aptitudes. Augmente également votre score biochimique de manière permanente de 5%. "},
+		                                        
+		{"key":"ID_STAGE1",				"value":"Germe"},
+		{"key":"ID_STAGE1_EXP",			"value":"Les germes mangent des germes plus petits qu’eux-mêmes et obtiennent des scores biochimiques. Maintenant déverrouillez votre premier germe!"},
+		{"key":"ID_STAGE2",				"value":"E. coli"},
+		{"key":"ID_STAGE2_EXP",			"value":"Escherichia coli est un germe commun présent dans les intestins (gros intestin et intestin grêle) d'animaux à sang chaud"},
+		{"key":"ID_STAGE3",				"value":"Anthrax"},
+		{"key":"ID_STAGE3_EXP",			"value":"C'est l'une des maladies infectieuses causées par les spores de Bacillus anthracis. Elle provoque une inflammation de la peau, une dyspnée et une inflammation de l'intestin."},
+		{"key":"ID_STAGE4",				"value":"Staphylococcus"},
+		{"key":"ID_STAGE4_EXP",			"value":"Le staphylocoque semble être une grappe de raisins microscopiques. La décomposition anaérobie du glucose pour produire de l'acide."},
+		{"key":"ID_STAGE5",				"value":"Vibrio cholerae"},
+		{"key":"ID_STAGE5_EXP",			"value":"Le choléra peut être causé par des fruits de mer crus ou insuffisamment cuits, ce qui peut se produire lorsque vous cuisinez ou ingérez des aliments avec des mains contaminées. Il est courant de se faire infecter par des aliments ou de l'eau contaminés par des excréments ou des vomissures. Si vous êtes infecté, vous souffrez de diarrhée et de déshydratation. "},
+		{"key":"ID_STAGE6",				"value":"Caries"},
+		{"key":"ID_STAGE6_EXP",			"value":"Les germes dans la bouche se développent sur la nourriture ou les gencives entre la dent et les gencives avec leur salive collée et formant des mottes. Les mottes sont une plaque. La plaque, une bactérie collante, est une gomme qui détruit les gencives. , plus de toxines attaquent les gencives, les irritent et provoquent des caries dentaires."},
+		{"key":"ID_STAGE7",				"value":"Lactobacilles"},
+		{"key":"ID_STAGE7_EXP",			"value":"C'est un champignon courant dans les aliments fermentés. Il a la propriété de libérer de l'acide pour tuer d'autres germes. Toutefois, si cet état persiste et que l'acidité devient trop basse, ils risquent de mourir à l'acide lactique qu'ils ont sécrété."},
+		{"key":"ID_STAGE8",				"value":"Champignon champignon"},
+		{"key":"ID_STAGE8_EXP",			"value":"Champignon est un mycélium avec un sac et une épaule. Les champignons ont des champignons qui peuvent être mangés et des champignons qui ont du poison. Les champignons sont multicellulaires et peuvent produire une reproduction sexuée ou une reproduction asexuée. Les champignons ont également une amitié étroite avec les plantes. Relie principalement échanger des nutriments. "},
+		{"key":"ID_STAGE9",				"value":"Penicillium"},
+		{"key":"ID_STAGE9_EXP",			"value":"Le pénicillium est également courant dans les maisons. Certaines espèces produisent des antibiotiques appelés pénicillines. Certains types de pénicillium servent également à la fabrication d'aliments fermentés tels que le fromage bleu."},
+		{"key":"ID_STAGE10",			"value":"Sperme"},
+		{"key":"ID_STAGE10_EXP",		"value":"Il fait référence à la cellule germinale d'un animal mâle. Un spermatozoïde a 35,4 Mo d'informations génétiques. Il envoie donc environ 1PB d'informations une fois qu'il est éjaculé. Il contient de nombreux ingrédients, tels que des protéines / calcium, entre 0 et 1 calories. C’est ce qui constitue le sperme, ce n’est pas que le sperme soit riche en protéines et en calcium. "},
+		
+		{"key":"ID_ST_GINT",			"value":"Géantisation"},
+		{"key":"ID_ST_GINT_EXP",		"value":"Taille +5"},
+		{"key":"ID_ST_HASTE",			"value":"Hâte"},
+		{"key":"ID_ST_HASTE_EXP",		"value":"Vitesse 200%"},
+		{"key":"ID_ST_ACUMEN",			"value":"Perspicacité"},
+		{"key":"ID_ST_ACUMEN_EXP",		"value":"Attaque 200%"},
+		{"key":"ID_ST_GLUE",			"value":"Glouton"},
+		{"key":"ID_ST_GLUE_EXP",		"value":"Tout germe peut manger quelle que soit sa taille"},
+		{"key":"ID_ST_ANGEL",			"value":"Ange"},
+		{"key":"ID_ST_ANGEL_EXP",		"value":"Le score biochimique acquis est compris entre 200% et 300%"},
+		{"key":"ID_ST_SMALL",			"value":"Smallisation"},
+		{"key":"ID_ST_SMALL_EXP",		"value":"Taille 50%"},
+		{"key":"ID_ST_WEB",				"value":"Toile d'araignée"},
+		{"key":"ID_ST_WEB_EXP",			"value":"Vitesse 50%"},
+		{"key":"ID_ST_PARAL",			"value":"Paralysie"},
+		{"key":"ID_ST_PARAL_EXP",		"value":"Ne peut pas bouger"},
+		{"key":"ID_ST_DRUNK",			"value":"Ivresse morte"},
+		{"key":"ID_ST_DRUNK_EXP",		"value":"Trébucher le mouvement"},
+		{"key":"ID_ST_ANOREX",			"value":"Anorexie"},
+		{"key":"ID_ST_ANOREX_EXP",		"value":"Tous les germes, quelle que soit leur taille, ne peuvent pas être consommés"},
+		{"key":"ID_ST_DEVIL",			"value":"Diable"},
+		{"key":"ID_ST_DEVIL_EXP",		"value":"Le score biochimique acquis est de 10% à 50%"},
+		{"key":"ID_ST_AROUS",			"value":"Éveil"},
+		{"key":"ID_ST_AROUS_EXP",		"value":"Augmenter toutes les statistiques, Augmenter le score biochimique, Tous les germes peuvent manger"},
+		{"key":"ID_ST_POISON",			"value":"Champignon toxique"},
+		{"key":"ID_ST_POISON_EXP",		"value":"Vitesse 50%"},
+		{"key":"ID_ST_SHII",			"value":"Champignons shiitake"},
+		{"key":"ID_ST_SHII_EXP",		"value":"Vitesse 200%"},
+		{"key":"ID_ST_MATSU",			"value":"Champignons matsutake"},
+		{"key":"ID_ST_MATSU_EXP",		"value":"Attaque 200%"},
+		{"key":"ID_ST_OYSTER",			"value":"Pleurotes"},
+		{"key":"ID_ST_OYSTER_EXP",		"value":"Taille +5"},
+		{"key":"ID_ST_WINTER",			"value":"Champignon d'hiver"},
+		{"key":"ID_ST_WINTER_EXP",		"value":"Score biochimique acquis 200%"},
+		{"key":"ID_ST_WOOD",			"value":"Champignon d'oreille en bois"},
+		{"key":"ID_ST_WOOD_EXP",		"value":"Dommages causés aux germes du boss 500%"},
+		{"key":"ID_ST_KOREAN",			"value":"Champignon géant coréen"},
+		{"key":"ID_ST_KOREAN_EXP",		"value":"Le taux d'occurrence d'un germe spécial 500%"},
+		{"key":"ID_ST_TRUF",			"value":"Truffe"},
+		{"key":"ID_ST_TRUF_EXP",		"value":"Le taux d'apparition des germes 500%"},
+		                                        
+		{"key":"ID_AV_RIDER",			"value":"Cavalier"},
+		{"key":"ID_AV_RIDER_EXP",		"value":"Vitesse +10"},
+		{"key":"ID_AV_GEMB",			"value":"Joueur"},
+		{"key":"ID_AV_GEMB_EXP",		"value":"Score biochimique acquis de 50% à 200%"},
+		{"key":"ID_AV_BERS",			"value":"Berserker"},
+		{"key":"ID_AV_BERS_EXP",		"value":"Attaque +10"},
+		{"key":"ID_AV_BODY",			"value":"Bodybuilder"},
+		{"key":"ID_AV_BODY_EXP",		"value":"Taille +10"},
+		{"key":"ID_AV_COLL",			"value":"Collectionneur"},
+		{"key":"ID_AV_COLL_EXP",		"value":"Probabilité d'apparition d'un germe spécial 150%"},
+		{"key":"ID_AV_LOCK",			"value":"Verrouiller"},
+		{"key":"ID_AV_LOCK_EXP",		"value":"Les germes se précipitent vers le germe du joueur"},
+		{"key":"ID_AV_FROZ",			"value":"Congelé"},
+		{"key":"ID_AV_FROZ_EXP",		"value":"La vitesse du germe commun est 30% plus lente"},
+		{"key":"ID_AV_BUFF",			"value":"Tampon"},
+		{"key":"ID_AV_BUFF_EXP",		"value":"Augmente la durée des buffs de 15 secondes"},
+		{"key":"ID_AV_REGI",			"value":"La résistance"},
+		{"key":"ID_AV_REGI_EXP",		"value":"Diminue la durée des debuffs de 15 secondes"},
+		{"key":"ID_AV_HUNT",			"value":"Chasseur"},
+		{"key":"ID_AV_HUNT_EXP",		"value":"Dommages causés aux microbes du boss 200%"},
+		{"key":"ID_AV_CSPOON",			"value":"Cuillère en cuivre"},
+		{"key":"ID_AV_CSPOON_EXP",		"value":"Score biochimique acquis 120%"},
+		{"key":"ID_AV_LASSO",			"value":"Lasso"},
+		{"key":"ID_AV_LASSO_EXP",		"value":"Réduit la vitesse du germe spécial de 50%"},
+		{"key":"ID_AV_DOMI",			"value":"Gène dominant"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"Réduction de 30% de l'apport en germes nécessaire à l'évolution"},
+		                                        
+		{"key":"ID_AV_MAGN",			"value":"Magnétisme"},
+		{"key":"ID_AV_MAGN_EXP",		"value":"Les petits germes sont entrés un peu"},
+		{"key":"ID_AV_BOMB",			"value":"Bomberman"},
+		{"key":"ID_AV_BOMB_EXP",		"value":"Bombardez-le avec une certaine probabilité et transformez-le en petits germes lorsque vous atteignez de gros germes"},
+		{"key":"ID_AV_GOHST",			"value":"Fantôme"},
+		{"key":"ID_AV_GOHST_EXP",		"value":"Traverser sans rencontrer de gros germes"},
+		{"key":"ID_AV_SSPOON",			"value":"Cuillère d'argent"},
+		{"key":"ID_AV_SSPOON_EXP",		"value":"Score biochimique acquis 150%"},
+		{"key":"ID_AV_AGRO",			"value":"Agro"},
+		{"key":"ID_AV_AGRO_EXP",		"value":"Génération de germes 150%"},
+		{"key":"ID_AV_FORTU",			"value":"Chanceux"},
+		{"key":"ID_AV_FORTU_EXP",		"value":"Probabilité de prendre du buff lors de l’absorption de germes spéciaux à 300%"},
+		{"key":"ID_AV_MATRIX",			"value":"Matrice"},
+		{"key":"ID_AV_MATRIX_EXP",		"value":"Les germes sont très lents près des germes des joueurs"},
+		{"key":"ID_AV_NEMES",			"value":"Némésis"},
+		{"key":"ID_AV_NEMES_EXP",		"value":"La probabilité que les bermes soient plus petites que le germe du joueur est de 300%"},
+		{"key":"ID_AV_ADVER",			"value":"Annonceur"},
+		{"key":"ID_AV_ADVER_EXP",		"value":"Augmentation de 10 secondes de l'effet de la publicité, diminution du temps de recharge de 10 secondes"},
+		{"key":"ID_AV_SWOOP",			"value":"Swoop"},
+		{"key":"ID_AV_SWOOP_EXP",		"value":"HP du germe de bossage est réduit de 30%"},
+		{"key":"ID_AV_RADAR",			"value":"Radar"},
+		{"key":"ID_AV_RADAR_EXP",		"value":"Temps de reproduction des boss réduit de 30 secondes"},
+		{"key":"ID_AV_GROUP",			"value":"Chasse en groupe"},
+		{"key":"ID_AV_GROUP_EXP",		"value":"Nombre de germes de boss apparents +1"},
+		{"key":"ID_AV_NEGO",			"value":"Négociateur"},
+		{"key":"ID_AV_NEGO_EXP",		"value":"Le score biochimique de reconnexion a augmenté de 10%"},
+		                                        
+		{"key":"ID_AV_DOPP",			"value":"Réplication"},
+		{"key":"ID_AV_DOPP_EXP",		"value":"Les germes sont dupliqués"},
+		{"key":"ID_AV_TOPP",			"value":"Top Predator"},
+		{"key":"ID_AV_TOPP_EXP",		"value":"Le germe peut être ingéré quelle que soit sa taille"},
+		{"key":"ID_AV_MAGIC",			"value":"Sac au trésor"},
+		{"key":"ID_AV_MAGIC_EXP",		"value":"L'élément qui sort quand le germe du boss meurt à 1,000%"},
+		{"key":"ID_AV_GSPOON",			"value":"Cuillère d'or"},
+		{"key":"ID_AV_GSPOON_EXP",		"value":"Score biochimique acquis 200%"},
+		{"key":"ID_AV_ALCHE",			"value":"alchimiste"},
+		{"key":"ID_AV_ALCHE_EXP",		"value":"Les germes des joueurs s'éteignent toutes les 2 secondes avec un missile, et l'objet touché par celui-ci se transforme en or. Si vous absorbez un objet devenu or, le score biochimique atteint 1,000%"},
+		{"key":"ID_AV_COMBO",			"value":"Combo"},
+		{"key":"ID_AV_COMBO_EXP",		"value":"L'apport consécutif de germes augmente le score biochimique obtenu. Si vous ne marquez pas pendant 2 secondes, le combo est réinitialisé."},
+		{"key":"ID_AV_SALE",			"value":"Rouleau de renfort"},
+		{"key":"ID_AV_SALE_EXP",		"value":"Réduction des coûts de renforcement de 50%"},
+		                                        
+		{"key":"ID_AV_CELL",			"value":"La division cellulaire"},
+		{"key":"ID_AV_CELL_EXP",		"value":"Nombre de germes x2, taille 80%"},
+		{"key":"ID_AV_AROSU",			"value":"Potion d'éveil"},
+		{"key":"ID_AV_AROSU_EXP",		"value":"L’étape reçoit 1 potion d’excitation par minute et gagne tous les effets de buff qui peuvent être obtenus lorsqu’ils sont ingérés"},
+		{"key":"ID_AV_ANTH",			"value":"Anthrax"},
+		{"key":"ID_AV_ANTH_EXP",		"value":"Épandre de l'anthrax, entraînant les germes de gaz dans l'anthrax. Les germes infectés par l'anthrax sont divisés en plusieurs fragments après une courte période de temps."},
+		{"key":"ID_AV_GLUCO",			"value":"Spray de glucose"},
+		{"key":"ID_AV_GLUCO_EXP",		"value":"Vaporisez du glucose autour. Chaque fois qu'un microbe principal absorbe un glucose, il en perd un à chaque mort."},
+		{"key":"ID_AV_COMMA",			"value":"Infection par le choléra"},
+		{"key":"ID_AV_COMMA_EXP",		"value":"Le germe ne peut plus être ingéré, et le germe qui est touché est infecté par le choléra. Le germe infecté par le choléra continue à émettre des scores biochimiques"},
+		{"key":"ID_AV_ROTTON",			"value":"Dent pourrie"},
+		{"key":"ID_AV_ROTTON_EXP",		"value":"Une dent propre apparaît sur la scène et, lorsqu'elle germe, elle germe, elle tourne en noir. Elle explose et génère de nombreux scores biochimiques lorsque toutes les dents pourrissent"},
+		{"key":"ID_AV_FERMEN",			"value":"Fermentation"},
+		{"key":"ID_AV_FERMEN_EXP",		"value":"La fermentation commence lorsque les germes du joueur ne mangent pas d’autres germes. Lorsque les autres germes sont mangés, la fermentation est initialisée et des scores biochimiques supplémentaires sont obtenus en fonction du degré de fermentation présent"},
+		{"key":"ID_AV_SPORE",			"value":"Spore"},
+		{"key":"ID_AV_SPORE_EXP",		"value":"Les spores se propagent à intervalles réguliers et les champignons poussent à des endroits spécifiques. Le champignon se développe en mangeant d'autres germes, explose quand le germe du joueur les atteint et libère des scores biochimiques."},
+		{"key":"ID_AV_PENIC",			"value":"Pénicilline"},
+		{"key":"ID_AV_PENIC_EXP",		"value":"Des antibiotiques puissants appliqués à tous les stades tuent tous les autres germes, à l’exception des germes de joueur et de germe principal, et les convertissent en scores biochimiques"},
+		{"key":"ID_AV_OVUL",			"value":"Ovulation"},
+		{"key":"ID_AV_OVUL_EXP",		"value":"Mettez l'ovule sur la scène. Tous les spermatozoïdes se précipitent vers l'ovule. Lorsque le germe du joueur et l'ovule sont fécondés, ils obtiennent un score biochimique énorme"},
+		
+		{"key":"LAST",					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

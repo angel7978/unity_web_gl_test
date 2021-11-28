@@ -1,0 +1,417 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME",			"value":"Grow Germ"},
+		{"key":"ID_APP_SUMMARY",		"value":"Coma outros germes e obtenha uma pontuação bioquímica para se tornar o melhor germe!"},
+		{"key":"ID_APP_DETAIL",			"value":"Crescer germes é um jogo onde você come outros germes e adquire pontuações bioquímicas. Ele pode crescer muitos tipos de germes e pode fortalecer e evoluir. Faça o melhor germe com as habilidades aleatórias que você pode obter toda vez que um germe evolui."},
+		                                        
+		{"key":"ID_LEVEL",				"value":"Nível"},
+        {"key":"ID_SIZE",				"value":"Tamanho"},
+		{"key":"ID_SPEED",				"value":"Rapidez"},
+		{"key":"ID_ATTACK",				"value":"Ataque"},
+		{"key":"ID_SCORE",				"value":"Ponto"},
+		{"key":"ID_LEVEL_UP",			"value":"Reforçar"},
+		{"key":"ID_EVOLUTION",			"value":"Evolução"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"Consumo de germes necessário para a evolução"},
+		{"key":"ID_MAXIMUM",			"value":"Máximo"},
+		{"key":"ID_TRANS",				"value":"Transcendência"},
+		{"key":"ID_TRANS_INFO",			"value":"Se você desbloquear todos os estágios, você pode transcender. Então as pontuações que você ganhou até agora serão inicializadas e você começará a partir do Estágio 1. No entanto, a habilidade e a habilidade única adquiridas pela evolução de cada estágio do germe são mantidas. A taxa de aquisição da pontuação bioquímica de bônus pela evolução também é mantida. Seu bônus de pontuação bioquímica é dobrado. "},
+		{"key":"ID_TRANS_MAG",			"value":"Bônus de pontuação bioquímica"},
+		{"key":"ID_RECON_TITLE",		"value":"Reconnection Reward"},
+		{"key":"ID_RECON_EXP",			"value":"Você voltou há muito tempo! NOs germes estão ansiosos para comer outros germes e produzir resultados bioquímicos mesmo quando você não está jogando."},
+		{"key":"ID_GET_SCORE",			"value":"Escore Bioquímico Adquirido"},
+		{"key":"ID_GET",				"value":"Pegue"},
+		{"key":"ID_WARNING",			"value":"AVISO"},
+		{"key":"ID_COMBO",				"value":"Combo!"},
+		{"key":"ID_FERM_BOUNUS",		"value":"Bônus de fermentação"},
+		{"key":"ID_COMING_SOON",		"value":"Em breve"},
+		{"key":"ID_QUIT_TITLE",			"value":"Game Quit"},
+		{"key":"ID_QUIT_CONTEENTS",		"value":"Você realmente desistiu do jogo?"},
+		{"key":"ID_YES",				"value":"Sim"},
+		{"key":"ID_NO",					"value":"Não"},
+		{"key":"ID_SETTINGS",			"value":"Definições"},
+		{"key":"ID_MUSIC",				"value":"Som"},
+		{"key":"ID_LANGUAGE",			"value":"Língua"},
+		{"key":"ID_INFO",				"value":"Informação do Jogo"},
+		{"key":"ID_CREDITS",			"value":"Créditos"},
+		{"key":"ID_EVALUATION",			"value":"Avaliação"},
+		{"key":"ID_EVALUATION_INFO",	"value":"Você está se divertindo? Se o jogo é divertido, 5 estrelas por favor! É um grande poder para desenvolvedores de jogos independentes! O efeito de reforço será adicionado por 10 minutos após a avaliação!"},
+		{"key":"ID_ADS_WAIT",			"value":"A publicidade está sendo preparada. Por favor, tente novamente daqui a pouco."},
+		{"key":"ID_SUPPORT",			"value":"Suporte"},
+		{"key":"ID_SUPPORT_INFO",		"value":"Oi. Eun Woo Pai, este é o John Park. Se você está impressionado com o seu coração, por favor, pressione o botão abaixo. Eu vou recompensá-lo com um jogo melhor."},
+		{"key":"ID_SUPPORT_1",			"value":"Suporte coffee valor"},
+		{"key":"ID_SUPPORT_2",			"value":"Suporte bebê fralda valor"},
+		{"key":"ID_SUPPORT_3",			"value":"Suporte leite em pó valor"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"Também saúdo ideias, feedbacks, desenhos, etc. que irão avançar o jogo. \nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"Obrigado."},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"Muito obrigado. Vou recompensá-lo com um jogo melhor. Vou lhe dar um pequeno tempo de reforço."},
+		{"key":"ID_CONFIRM",			"value":"confirme"},
+
+		{"key":"ID_SUPER",				"value":"Super"},
+		{"key":"ID_IMMUNE",				"value":"Imune"},
+		{"key":"ID_MUTATION",			"value":"Mutação"},
+		{"key":"ID_MASTER",				"value":"Mestre"},
+		                                        
+		{"key":"ID_SUPER_GERM_AB",		"value":"Super Germ Habilidade"},
+		{"key":"ID_IMMUNE_GERM_AB",		"value":"Imune Germ Habilidade"},
+		{"key":"ID_MUTATION_GERM_AB",	"value":"Mutation Germ Habilidade"},
+		{"key":"ID_UNIQUE_AB",			"value":"Capacidade Única"},
+		                                        
+		{"key":"ID_GUIDE0",				"value":"Germes automaticamente vão atrás de pequenos germes que são menores do que eles mesmos. Se você acertar um grande germe, não será capaz de comê-lo. Quando você toca na tela, os germes correm mais rápido lá."},
+		{"key":"ID_GUIDE1",				"value":"Quando a classificação bioquímica atingir um certo nível, você poderá fortalecer o germe pressionando o botão [Reforçar]. Você pode aumentar o tamanho, a velocidade, o ataque e a pontuação bioquímica de aquisição adicional."},
+		{"key":"ID_GUIDE2",				"value":"Quanto maior o tamanho, quanto maior o germe pode ser comido, quanto mais rápida a velocidade, mais rápido o germe pode seguir os outros germes. Ataques aumentados podem causar mais danos aos germes do chefe."},
+		{"key":"ID_GUIDE3",				"value":"Além de germes comuns, germe especial de cor vermelha aparecem. Se comer esses germes, você obtém um efeito aleatório."},
+		{"key":"ID_GUIDE4",				"value":"Periodicamente germe germe aparecem no palco, você pode derrotar os germes do chefe, batendo ou tocando. Derrotar germes chefe pode resultar em uma grande quantidade de resultados bioquímicos."},
+		{"key":"ID_GUIDE5",				"value":"Ao desenvolver germes, você pode obter habilidades especiais ao acaso. Existem quatro níveis de evolução: germe imune - germe-mestre mutante germinador imune. À medida que os germes evoluem, eles ganham melhores habilidades. Também aumenta sua pontuação bioquímica permanentemente em todos os estágios por 5%. "},
+		                                        
+		{"key":"ID_STAGE1",				"value":"Germe"},
+		{"key":"ID_STAGE1_EXP",			"value":"Os germes comem germes menores que eles e ganham pontos bioquímicos. Agora desbloqueie seu primeiro germe!"},
+		{"key":"ID_STAGE2",				"value":"E. coli"},
+		{"key":"ID_STAGE2_EXP",			"value":"Escherichia coli é um germe comum encontrado nos intestinos (intestino grosso e intestino delgado) de animais de sangue quente"},
+		{"key":"ID_STAGE3",				"value":"Antraz"},
+		{"key":"ID_STAGE3_EXP",			"value":"É uma das doenças infecciosas causadas por esporos de Bacillus anthracis. Causa inflamação da pele, dispneia e inflamação intestinal."},
+		{"key":"ID_STAGE4",				"value":"Staphylococcus"},
+		{"key":"ID_STAGE4_EXP",			"value":"Staphylococcus parece ser um aglomerado de uvas microscópicas. Decomposição anaeróbica de glicose para produzir ácido."},
+		{"key":"ID_STAGE5",				"value":"Vibrio cholerae"},
+		{"key":"ID_STAGE5_EXP",			"value":"A cólera pode ser causada por frutos do mar crus ou mal cozidos, que podem ocorrer ao cozinhar ou ingerir alimentos com as mãos contaminadas. É comum ser infectado por comida ou água contaminada com fezes ou vômito. Se você for infectado, tem diarréia e desidratação. "},
+		{"key":"ID_STAGE6",				"value":"Cavidades"},
+		{"key":"ID_STAGE6_EXP",			"value":"Os germes na boca crescem na comida ou nas gengivas entre o dente e as gengivas com a saliva agarrada e formando nódulos. Os nódulos são placas. A placa, uma bactéria pegajosa, é uma gengiva que destrói as gengivas. À medida que mais placas se acumulam mais toxinas atacam as gengivas, irritam as gengivas e causam cárie dentária. A cárie dentária faz com que os dentes fiquem pretos ou descoloridos. "},
+		{"key":"ID_STAGE7",				"value":"Lactobacillus"},
+		{"key":"ID_STAGE7_EXP",			"value":"É um fungo comum em alimentos fermentados. Tem a propriedade de liberar ácido para matar outros germes. No entanto, se esse estado continuar e a acidez se tornar muito baixa, eles podem morrer com o ácido láctico que eles secretam."},
+		{"key":"ID_STAGE8",				"value":"Fungo cogumelo"},
+		{"key":"ID_STAGE8_EXP",			"value":"Cogumelo é um micélio com um saco e um ombro. Cogumelos têm cogumelos que podem ser comidos e cogumelos que têm veneno. Cogumelos são multicelulares e podem produzir reprodução sexual ou reprodução assexuada. Cogumelos também têm amizade íntima com plantas. Forma principalmente um relacionamento para trocar nutrientes. "},
+		{"key":"ID_STAGE9",				"value":"Penicillium"},
+		{"key":"ID_STAGE9_EXP",			"value":"Penicillium também é comum em casas. Algumas espécies produzem antibióticos chamados penicilinas. Certos tipos de penicillium também são usados ​​para fazer alimentos fermentados, como queijo azul."},
+		{"key":"ID_STAGE10",			"value":"Esperma"},
+		{"key":"ID_STAGE10_EXP",		"value":"Refere-se à célula germinativa de um animal macho. Um espermatozóide tem 35,4 MB de informação genética, por isso envia cerca de 1 PB de informação assim que é ejaculado, e contém vários ingredientes como proteína / cálcio entre 0- 1 calorias, é o que constitui o esperma, não é que o sêmen seja rico em proteína e cálcio. "},
+		
+		{"key":"ID_ST_GINT",			"value":"Giganteização"},
+		{"key":"ID_ST_GINT_EXP",		"value":"Tamanho +5"},
+		{"key":"ID_ST_HASTE",			"value":"Pressa"},
+		{"key":"ID_ST_HASTE_EXP",		"value":"Velocidade 200%"},
+		{"key":"ID_ST_ACUMEN",			"value":"Perspicácia"},
+		{"key":"ID_ST_ACUMEN_EXP",		"value":"Ataque 200%"},
+		{"key":"ID_ST_GLUE",			"value":"Glutão"},
+		{"key":"ID_ST_GLUE_EXP",		"value":"Todo germe pode comer independentemente do tamanho"},
+		{"key":"ID_ST_ANGEL",			"value":"Anjo"},
+		{"key":"ID_ST_ANGEL_EXP",		"value":"A pontuação bioquímica adquirida é de 200% a 300%"},
+		{"key":"ID_ST_SMALL",			"value":"Smallization"},
+		{"key":"ID_ST_SMALL_EXP",		"value":"Tamanho 50%"},
+		{"key":"ID_ST_WEB",				"value":"Teia de aranha"},
+		{"key":"ID_ST_WEB_EXP",			"value":"Velocidade 50%"},
+		{"key":"ID_ST_PARAL",			"value":"Paralisia"},
+		{"key":"ID_ST_PARAL_EXP",		"value":"Não pode se mover"},
+		{"key":"ID_ST_DRUNK",			"value":"Embriaguez morta"},
+		{"key":"ID_ST_DRUNK_EXP",		"value":"Movimento tropeçar"},
+		{"key":"ID_ST_ANOREX",			"value":"Anorexia"},
+		{"key":"ID_ST_ANOREX_EXP",		"value":"Todo o germe, independentemente do tamanho, não pode ser consumido"},
+		{"key":"ID_ST_DEVIL",			"value":"Diabo"},
+		{"key":"ID_ST_DEVIL_EXP",		"value":"A pontuação bioquímica adquirida é de 10% a 50%"},
+		{"key":"ID_ST_AROUS",			"value":"Excitação"},
+		{"key":"ID_ST_AROUS_EXP",		"value":"Aumentar todas as estatísticas, Aumentar a pontuação bioquímica, Todos os germes podem comer"},
+		{"key":"ID_ST_POISON",			"value":"Cogumelo venenoso"},
+		{"key":"ID_ST_POISON_EXP",		"value":"Velocidade 50%"},
+		{"key":"ID_ST_SHII",			"value":"Cogumelos shitake"},
+		{"key":"ID_ST_SHII_EXP",		"value":"Velocidade 200%"},
+		{"key":"ID_ST_MATSU",			"value":"Cogumelos Matsutake"},
+		{"key":"ID_ST_MATSU_EXP",		"value":"Ataque 200%"},
+		{"key":"ID_ST_OYSTER",			"value":"Cogumelo ostra"},
+		{"key":"ID_ST_OYSTER_EXP",		"value":"Tamanho +5"},
+		{"key":"ID_ST_WINTER",			"value":"Cogumelo de inverno"},
+		{"key":"ID_ST_WINTER_EXP",		"value":"Pontuação bioquímica adquirida 200%"},
+		{"key":"ID_ST_WOOD",			"value":"Cogumelo orelha de madeira"},
+		{"key":"ID_ST_WOOD_EXP",		"value":"Danos aos germes do chefe 500%"},
+		{"key":"ID_ST_KOREAN",			"value":"Cogumelo gigante coreano"},
+		{"key":"ID_ST_KOREAN_EXP",		"value":"A taxa de ocorrência de um germe especial de 500%"},
+		{"key":"ID_ST_TRUF",			"value":"Brigadeiro"},
+		{"key":"ID_ST_TRUF_EXP",		"value":"A taxa de aparecimento de germes de 500%"},
+		                                        
+		{"key":"ID_AV_RIDER",			"value":"Cavaleiro"},
+		{"key":"ID_AV_RIDER_EXP",		"value":"Velocidade +10"},
+		{"key":"ID_AV_GEMB",			"value":"Jogador"},
+		{"key":"ID_AV_GEMB_EXP",		"value":"Pontuação bioquímica adquirida de 50% a 200%"},
+		{"key":"ID_AV_BERS",			"value":"Berserker"},
+		{"key":"ID_AV_BERS_EXP",		"value":"Attack +10"},
+		{"key":"ID_AV_BODY",			"value":"Bodybuilder"},
+		{"key":"ID_AV_BODY_EXP",		"value":"Tamanho +10"},
+		{"key":"ID_AV_COLL",			"value":"Colecionador"},
+		{"key":"ID_AV_COLL_EXP",		"value":"Probabilidade de aparecimento de um germe especial 150%"},
+		{"key":"ID_AV_LOCK",			"value":"Trancar"},
+		{"key":"ID_AV_LOCK_EXP",		"value":"Germes correm em direção ao jogador germe"},
+		{"key":"ID_AV_FROZ",			"value":"Congeladas"},
+		{"key":"ID_AV_FROZ_EXP",		"value":"A velocidade do germe comum é 30% mais lenta"},
+		{"key":"ID_AV_BUFF",			"value":"Amortecedor"},
+		{"key":"ID_AV_BUFF_EXP",		"value":"Aumenta a duração dos buffs em 15 segundos"},
+		{"key":"ID_AV_REGI",			"value":"Resistência"},
+		{"key":"ID_AV_REGI_EXP",		"value":"Diminui a duração dos debuffs em 15 segundos"},
+		{"key":"ID_AV_HUNT",			"value":"Caçador"},
+		{"key":"ID_AV_HUNT_EXP",		"value":"Dano ao chefe germes 200%"},
+		{"key":"ID_AV_CSPOON",			"value":"Copper Spoon"},
+		{"key":"ID_AV_CSPOON_EXP",		"value":"Escore Bioquímico Adquirido 120%"},
+		{"key":"ID_AV_LASSO",			"value":"Laço"},
+		{"key":"ID_AV_LASSO_EXP",		"value":"Reduz a velocidade do germe especial em 50%"},
+		{"key":"ID_AV_DOMI",			"value":"Gene dominante"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"Redução de 30% no consumo de germes necessário para a evolução"},
+		                                        
+		{"key":"ID_AV_MAGN",			"value":"Magnetismo"},
+		{"key":"ID_AV_MAGN_EXP",		"value":"Pequenos germes vieram um pouco"},
+		{"key":"ID_AV_BOMB",			"value":"Bomberman"},
+		{"key":"ID_AV_BOMB_EXP",		"value":"Bombardeie-o com uma certa probabilidade e transforme-o em pequenos germes quando atingir grandes germes"},
+		{"key":"ID_AV_GOHST",			"value":"Fantasma"},
+		{"key":"ID_AV_GOHST_EXP",		"value":"Passar sem encontrar grandes germes"},
+		{"key":"ID_AV_SSPOON",			"value":"Colher de prata"},
+		{"key":"ID_AV_SSPOON_EXP",		"value":"Pontuação bioquímica adquirida 150%"},
+		{"key":"ID_AV_AGRO",			"value":"Provocação"},
+		{"key":"ID_AV_AGRO_EXP",		"value":"Geração de germes 150%"},
+		{"key":"ID_AV_FORTU",			"value":"Feliz"},
+		{"key":"ID_AV_FORTU_EXP",		"value":"Probabilidade de tomar buff quando absorvendo germe especial de 300%"},
+		{"key":"ID_AV_MATRIX",			"value":"Matriz"},
+		{"key":"ID_AV_MATRIX_EXP",		"value":"Os germes são muito lentos perto dos germes dos jogadores"},
+		{"key":"ID_AV_NEMES",			"value":"Nêmesis"},
+		{"key":"ID_AV_NEMES_EXP",		"value":"A probabilidade de berm que são menores que o germe jogador é de 300%"},
+		{"key":"ID_AV_ADVER",			"value":"Anunciante"},
+		{"key":"ID_AV_ADVER_EXP",		"value":"10 segundos de aumento no efeito de publicidade, 10 segundos de diminuição no cooldown"},
+		{"key":"ID_AV_SWOOP",			"value":"Swoop"},
+		{"key":"ID_AV_SWOOP_EXP",		"value":"HP do germe chefe é reduzido em 30%"},
+		{"key":"ID_AV_RADAR",			"value":"Radar"},
+		{"key":"ID_AV_RADAR_EXP",		"value":"Tempo de desova do chefe reduzido em 30 segundos"},
+		{"key":"ID_AV_GROUP",			"value":"Group Hunting"},
+		{"key":"ID_AV_GROUP_EXP",		"value":"Número do germe de chefe aparecendo +1"},
+		{"key":"ID_AV_NEGO",			"value":"Negociador"},
+		{"key":"ID_AV_NEGO_EXP",		"value":"Pontuação bioquímica de reconexão aumentou 10%"},
+		                                        
+		{"key":"ID_AV_DOPP",			"value":"Sósia"},
+		{"key":"ID_AV_DOPP_EXP",		"value":"Germs are duplicated"},
+		{"key":"ID_AV_TOPP",			"value":"Predator Top"},
+		{"key":"ID_AV_TOPP_EXP",		"value":"Germe pode ser ingerido independentemente do tamanho"},
+		{"key":"ID_AV_MAGIC",			"value":"Bolsa de tesouro"},
+		{"key":"ID_AV_MAGIC_EXP",		"value":"O item que sai quando o germe chefe morre 1,000%"},
+		{"key":"ID_AV_GSPOON",			"value":"Gold Spoon"},
+		{"key":"ID_AV_GSPOON_EXP",		"value":"Pontuação bioquímica adquirida 200%"},
+		{"key":"ID_AV_ALCHE",			"value":"alquimista"},
+		{"key":"ID_AV_ALCHE_EXP",		"value":"Germes de jogadores saem a cada 2 segundos com um míssil, e o objeto atingido pelo míssil muda para ouro. Se absorver um objeto que tenha mudado para ouro, a pontuação bioquímica é de 1,000%"},
+		{"key":"ID_AV_COMBO",			"value":"Combo"},
+		{"key":"ID_AV_COMBO_EXP",		"value":"A ingestão consecutiva de germe aumenta a pontuação bioquímica obtida. Se você não marcar por 2 segundos, o combo é reiniciado."},
+		{"key":"ID_AV_SALE",			"value":"Pergaminho de reforço"},
+		{"key":"ID_AV_SALE_EXP",		"value":"Custo reduzido de reforço em 50%"},
+		                                        
+		{"key":"ID_AV_CELL",			"value":"Divisão celular"},
+		{"key":"ID_AV_CELL_EXP",		"value":"Número de germe x2, tamanho 80%"},
+		{"key":"ID_AV_AROSU",			"value":"Excitação poção"},
+		{"key":"ID_AV_AROSU_EXP",		"value":"O estágio recebe 1 porção de excitação por minuto e ganha todos os efeitos de buff que podem ser obtidos quando ingeridos"},
+		{"key":"ID_AV_ANTH",			"value":"Antraz"},
+		{"key":"ID_AV_ANTH_EXP",		"value":"Disseminação de gás antraz, levando germes de gás ao antraz. Os germes infectados com antraz são divididos em vários fragmentos após um curto período de tempo."},
+		{"key":"ID_AV_GLUCO",			"value":"Spray de Glucose"},
+		{"key":"ID_AV_GLUCO_EXP",		"value":"Pulverize glicose ao redor. Cada vez que um germe de chefe pega uma glicose, ela cai um item toda vez que ele morre."},
+		{"key":"ID_AV_COMMA",			"value":"Infecção da cólera"},
+		{"key":"ID_AV_COMMA_EXP",		"value":"O germe não pode mais ser ingerido, e o germe que é atingido é infectado com cólera. Germe infectado com cólera continua a emitir escores bioquímicos"},
+		{"key":"ID_AV_ROTTON",			"value":"Dente podre"},
+		{"key":"ID_AV_ROTTON_EXP",		"value":"Um dente limpo aparece no palco, e quando o germe bate, ele gira em preto. Ele explode e recebe muitos resultados bioquímicos quando todos os dentes apodrecem"},
+		{"key":"ID_AV_FERMEN",			"value":"Fermentação"},
+		{"key":"ID_AV_FERMEN_EXP",		"value":"A fermentação começa quando o germe jogador não está comendo outros germes. Quando outro germe é comido, a fermentação é inicializada e escores bioquímicos adicionais são obtidos, dependendo do grau de fermentação presente"},
+		{"key":"ID_AV_SPORE",			"value":"Spore"},
+		{"key":"ID_AV_SPORE_EXP",		"value":"Os esporos estão se espalhando em intervalos regulares e os cogumelos crescem em locais específicos. O cogumelo cresce comendo outros germes, explode quando o germe do jogador os alcança e libera escores bioquímicos."},
+		{"key":"ID_AV_PENIC",			"value":"Penicilina"},
+		{"key":"ID_AV_PENIC_EXP",		"value":"Antibióticos fortes aplicados a todos os estágios, matar todos os outros germes, exceto germe de jogador e germe chefe, e convertê-los em escores bioquímicos"},
+		{"key":"ID_AV_OVUL",			"value":"Ovulação"},
+		{"key":"ID_AV_OVUL_EXP",		"value":"Coloque o óvulo no palco. Todos os espermatozóides correm para o óvulo. Quando o germe reprodutor e o óvulo são fertilizados, terão uma enorme pontuação bioquímica"},
+		
+		{"key":"LAST",					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

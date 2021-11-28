@@ -1,0 +1,417 @@
+{"items":
+	[
+		{"key":"ID_APP_NAME",			"value":"种植胚芽"},
+		{"key":"ID_APP_SUMMARY",		"value":"吃其他细菌并获得生化评分, 成为最好的细菌！"},
+		{"key":"ID_APP_DETAIL",			"value":"种植细菌是一种游戏, 你可以吃其他细菌并获得生化分数。 它可以生长多种细菌, 可以加强和进化。 用每次细菌进化时可以获得的随机能力制造出最好的细菌。"},
+		                                        
+		{"key":"ID_LEVEL",				"value":"水平"},
+        {"key":"ID_SIZE",				"value":"尺寸"},
+		{"key":"ID_SPEED",				"value":"速度"},
+		{"key":"ID_ATTACK",				"value":"攻击"},
+		{"key":"ID_SCORE",				"value":"得分了"},
+		{"key":"ID_LEVEL_UP",			"value":"加强"},
+		{"key":"ID_EVOLUTION",			"value":"演化"},
+		{"key":"ID_EVOLUTION_INFO",		"value":"进化所需的胚芽摄入量"},
+		{"key":"ID_MAXIMUM",			"value":"最大值"},
+		{"key":"ID_TRANS",				"value":"超越"},
+		{"key":"ID_TRANS_INFO",			"value":"如果你解锁所有阶段,你可以超越。 然后你所获得的分数将被初始化,你将从第一阶段开始。 但是,每个阶段的细菌进化所获得的能力和独特能力得以维持。 进化的奖励生化分数获得率也保持不变。 你的生化分数加成倍增。"},
+		{"key":"ID_TRANS_MAG",			"value":"生化分数奖金"},
+		{"key":"ID_RECON_TITLE",		"value":"重新连接奖励"},
+		{"key":"ID_RECON_EXP",			"value":"你很长一段时间回来了！ 即使你不玩游戏, 你的细菌也渴望吃其他细菌并产生生化分数。"},
+		{"key":"ID_GET_SCORE",			"value":"获得生化评分"},
+		{"key":"ID_GET",				"value":"得到"},
+		{"key":"ID_WARNING",			"value":"警告"},
+		{"key":"ID_COMBO",				"value":"二合一！"},
+		{"key":"ID_FERM_BOUNUS",		"value":"发酵奖金"},
+		{"key":"ID_COMING_SOON",		"value":"快来了"},
+		{"key":"ID_QUIT_TITLE",			"value":"游戏退出"},
+		{"key":"ID_QUIT_CONTEENTS",		"value":"你真的放弃了比赛吗？"},
+		{"key":"ID_YES",				"value":"是"},
+		{"key":"ID_NO",					"value":"没有"},
+		{"key":"ID_SETTINGS",			"value":"设置"},
+		{"key":"ID_MUSIC",				"value":"声音"},
+		{"key":"ID_LANGUAGE",			"value":"语言"},
+		{"key":"ID_INFO",				"value":"游戏信息"},
+		{"key":"ID_CREDITS",			"value":"信用"},
+		{"key":"ID_EVALUATION",			"value":"评估"},
+		{"key":"ID_EVALUATION_INFO",	"value":"你玩的高兴吗？ 如果游戏很有趣, 请5星！  这对独立游戏开发者来说是一个强大的力量！  评估后, 将在10分钟内添加助推器效果！"},
+		{"key":"ID_ADS_WAIT",			"value":"正在准备广告。 请稍后再试。"},
+		{"key":"ID_SUPPORT",			"value":"支持"},
+		{"key":"ID_SUPPORT_INFO",		"value":"嗨. Eun Woo爸爸, 这是John Park。 如果你对你的心印象深刻, 请按下面的按钮。 我会用更好的游戏回报你。"},
+		{"key":"ID_SUPPORT_1",			"value":"支持咖啡价值"},
+		{"key":"ID_SUPPORT_2",			"value":"支持婴儿尿布价值"},
+		{"key":"ID_SUPPORT_3",			"value":"支持奶粉价值"},
+		{"key":"ID_SUPPORT_INFO2",		"value":"我也欢迎能够推进游戏的想法, 反馈, 绘画等。\nzero.seven.dev@gmail.com"},
+		{"key":"ID_THANKYOU",			"value":"谢谢。"},
+		{"key":"ID_THANKYOU_COMMENT",	"value":"非常感谢你。 我会用更好的游戏奖励您。 我会给你一点时间。"},
+		{"key":"ID_CONFIRM",			"value":"确认"},
+				                                
+		{"key":"ID_SUPER",				"value":"超"},
+		{"key":"ID_IMMUNE",				"value":"免疫"},
+		{"key":"ID_MUTATION",			"value":"突变"},
+		{"key":"ID_MASTER",				"value":"主"},
+		                                        
+		{"key":"ID_SUPER_GERM_AB",		"value":"超级胚芽能力"},
+		{"key":"ID_IMMUNE_GERM_AB",		"value":"免疫胚芽能力"},
+		{"key":"ID_MUTATION_GERM_AB",	"value":"突变细菌能力"},
+		{"key":"ID_UNIQUE_AB",			"value":"独特能力"},
+		                                        
+		{"key":"ID_GUIDE0",				"value":"细菌会自动追踪比自己小的细菌。 如果你遇到大细菌,就不能吃它。 当你触摸屏幕时,细菌在那里跑得更快。"},
+		{"key":"ID_GUIDE1",				"value":"一旦生化分数达到一定水平, 你可以通过按[加强]按钮加强细菌。 你可以增加体型,速度,攻击和额外的采集生化评分。"},
+		{"key":"ID_GUIDE2",				"value":"体积越大, 可以食用的胚芽越大, 速度越快, 细菌跟随其他细菌的速度就越快。 增加的攻击可以对老板细菌造成更大的伤害。"},
+		{"key":"ID_GUIDE3",				"value":"除了普通的细菌外, 还会出现红色的特殊细菌。 如果吃这些细菌,就会产生随机效果。"},
+		{"key":"ID_GUIDE4",				"value":"阶段性的老鼠胚芽出现在舞台上, 你可以通过击打或触摸击败老板细菌。 击败老板细菌可以导致大量的生化分数。"},
+		{"key":"ID_GUIDE5",				"value":"通过进化细菌,你可以随机获得特殊能力。 进化有四个层次 ： 超级细菌  -  免疫细菌  -  变异细菌  -  胚芽细菌。 随着细菌的进化, 它们获得更好的能力。 同时在所有阶段永久地提高你的生化评分减少5％。"},
+		                                        
+		{"key":"ID_STAGE1",				"value":"胚芽"},
+		{"key":"ID_STAGE1_EXP",			"value":"细菌比自己吃更小的细菌, 并获得生化分数。 现在解开你的第一个胚芽！"},
+		{"key":"ID_STAGE2",				"value":"大肠杆菌"},
+		{"key":"ID_STAGE2_EXP",			"value":"大肠杆菌是在温血动物的肠 （大肠和小肠） 中发现的常见细菌"},
+		{"key":"ID_STAGE3",				"value":"炭疽病"},
+		{"key":"ID_STAGE3_EXP",			"value":"它是由炭疽芽孢杆菌孢子引起的传染病之一。 它引起皮肤炎症, 呼吸困难和肠道炎症。"},
+		{"key":"ID_STAGE4",				"value":"葡萄球菌"},
+		{"key":"ID_STAGE4_EXP",			"value":"金黄色葡萄球菌似乎是一群微观葡萄。 葡萄糖厌氧分解产生酸。"},
+		{"key":"ID_STAGE5",				"value":"霍乱弧菌"},
+		{"key":"ID_STAGE5_EXP",			"value":"霍乱可能是由未经烹煮或未煮熟的海鲜引起的, 这种海鲜可能在烹饪或用手污染的食物摄入时发生。 通常会被粪便或呕吐物污染的食物或水感染。 如果感染了, 就会导致腹泻和脱水。 "},
+		{"key":"ID_STAGE6",				"value":"空洞"},
+		{"key":"ID_STAGE6_EXP",			"value":"口腔中的细菌生长在牙齿和牙龈之间的食物或牙龈上, 唾液粘在一起形成肿块。 肿块是牙菌斑。 牙菌斑是一种粘性细菌, 是一种破坏牙龈的牙龈。 随着更多斑块的积聚更多的毒素攻击牙龈, 刺激牙龈,导致蛀牙。 牙齿腐烂导致牙齿变黑或变色。"},
+		{"key":"ID_STAGE7",				"value":"乳酸菌"},
+		{"key":"ID_STAGE7_EXP",			"value":"它是发酵食品中常见的真菌。 它具有释放酸以杀死其他细菌的特性。 但是,如果这种状态持续并且酸度变得太低, 它们可能会死于它们分泌的乳酸。"},
+		{"key":"ID_STAGE8",				"value":"蘑菇真菌"},
+		{"key":"ID_STAGE8_EXP",			"value":"蘑菇是一种带有麻袋和肩膀的菌丝。 蘑菇有可以吃的蘑菇和有毒的蘑菇。 蘑菇是多细胞的, 可以产生有性繁殖或无性繁殖。 蘑菇也与植物有着密切的友谊。 主要形成一种关系交换营养。"},
+		{"key":"ID_STAGE9",				"value":"青霉"},
+		{"key":"ID_STAGE9_EXP",			"value":"青霉菌在家庭中也很常见。 有些物种会产生称为青霉素的抗生素。 某些类型的青霉素也被用来制作蓝纹奶酪等发酵食品。"},
+		{"key":"ID_STAGE10",			"value":"精子"},
+		{"key":"ID_STAGE10_EXP",		"value":"它指的是雄性动物的生殖细胞。 一个精子具有35.4 MB的遗传信息, 因此一旦射精就会发送大约1PB的信息, 并且它包含许多各种成分, 如蛋白质/钙在0-之间1卡路里。 这就是精子的组成部分, 并不是精液含有丰富的蛋白质和钙。"},
+		
+		{"key":"ID_ST_GINT",			"value":"在很大程度上"},
+		{"key":"ID_ST_GINT_EXP",		"value":"大小+5"},
+		{"key":"ID_ST_HASTE",			"value":"急速"},
+		{"key":"ID_ST_HASTE_EXP",		"value":"速度200％"},
+		{"key":"ID_ST_ACUMEN",			"value":"敏锐"},
+		{"key":"ID_ST_ACUMEN_EXP",		"value":"攻击200％"},
+		{"key":"ID_ST_GLUE",			"value":"馋嘴"},
+		{"key":"ID_ST_GLUE_EXP",		"value":"无论大小,所有细菌都可以吃"},
+		{"key":"ID_ST_ANGEL",			"value":"天使"},
+		{"key":"ID_ST_ANGEL_EXP",		"value":"获得的生化评分为200％至300％"},
+		{"key":"ID_ST_SMALL",			"value":"小"},
+		{"key":"ID_ST_SMALL_EXP",		"value":"大小50％"},
+		{"key":"ID_ST_WEB",				"value":"蜘蛛网"},
+		{"key":"ID_ST_WEB_EXP",			"value":"速度50％"},
+		{"key":"ID_ST_PARAL",			"value":"麻痹"},
+		{"key":"ID_ST_PARAL_EXP",		"value":"不能动"},
+		{"key":"ID_ST_DRUNK",			"value":"死酗酒"},
+		{"key":"ID_ST_DRUNK_EXP",		"value":"运动绊倒"},
+		{"key":"ID_ST_ANOREX",			"value":"厌食症"},
+		{"key":"ID_ST_ANOREX_EXP",		"value":"所有细菌,无论大小,都不能消耗"},
+		{"key":"ID_ST_DEVIL",			"value":"魔鬼"},
+		{"key":"ID_ST_DEVIL_EXP",		"value":"获得的生化评分为10％至5​​0％"},
+		{"key":"ID_ST_AROUS",			"value":"觉醒"},
+		{"key":"ID_ST_AROUS_EXP",		"value":"增加所有统计数据,提高生化分数,所有胚芽都可以吃"},
+		{"key":"ID_ST_POISON",			"value":"毒蘑菇"},
+		{"key":"ID_ST_POISON_EXP",		"value":"速度50％"},
+		{"key":"ID_ST_SHII",			"value":"香菇"},
+		{"key":"ID_ST_SHII_EXP",		"value":"速度200％"},
+		{"key":"ID_ST_MATSU",			"value":"松茸蘑菇"},
+		{"key":"ID_ST_MATSU_EXP",		"value":"攻击200％"},
+		{"key":"ID_ST_OYSTER",			"value":"平菇"},
+		{"key":"ID_ST_OYSTER_EXP",		"value":"大小+5"},
+		{"key":"ID_ST_WINTER",			"value":"冬菇"},
+		{"key":"ID_ST_WINTER_EXP",		"value":"获得生化分数200％"},
+		{"key":"ID_ST_WOOD",			"value":"木耳蘑菇"},
+		{"key":"ID_ST_WOOD_EXP",		"value":"对老板细菌的伤害500％"},
+		{"key":"ID_ST_KOREAN",			"value":"韩国巨型蘑菇"},
+		{"key":"ID_ST_KOREAN_EXP",		"value":"特殊细菌的发生率500％"},
+		{"key":"ID_ST_TRUF",			"value":"松露"},
+		{"key":"ID_ST_TRUF_EXP",		"value":"细菌出现率500％"},
+		                                        
+		{"key":"ID_AV_RIDER",			"value":"骑士"},
+		{"key":"ID_AV_RIDER_EXP",		"value":"速度+10"},
+		{"key":"ID_AV_GEMB",			"value":"赌徒"},
+		{"key":"ID_AV_GEMB_EXP",		"value":"获得生化评分50％至200％"},
+		{"key":"ID_AV_BERS",			"value":"狂战士"},
+		{"key":"ID_AV_BERS_EXP",		"value":"攻击+10"},
+		{"key":"ID_AV_BODY",			"value":"健美先生"},
+		{"key":"ID_AV_BODY_EXP",		"value":"大小+10"},
+		{"key":"ID_AV_COLL",			"value":"集电极"},
+		{"key":"ID_AV_COLL_EXP",		"value":"出现特殊细菌150％的可能性"},
+		{"key":"ID_AV_LOCK",			"value":"锁上"},
+		{"key":"ID_AV_LOCK_EXP",		"value":"细菌涌向玩家胚芽"},
+		{"key":"ID_AV_FROZ",			"value":"冻结"},
+		{"key":"ID_AV_FROZ_EXP",		"value":"常见细菌的速度慢30％"},
+		{"key":"ID_AV_BUFF",			"value":"缓冲"},
+		{"key":"ID_AV_BUFF_EXP",		"value":"将buff的持续时间延长15秒"},
+		{"key":"ID_AV_REGI",			"value":"抵抗性"},
+		{"key":"ID_AV_REGI_EXP",		"value":"将debuff的持续时间减少15秒"},
+		{"key":"ID_AV_HUNT",			"value":"猎人"},
+		{"key":"ID_AV_HUNT_EXP",		"value":"对老板细菌的伤害200％"},
+		{"key":"ID_AV_CSPOON",			"value":"铜勺"},
+		{"key":"ID_AV_CSPOON_EXP",		"value":"获得生化分数120％"},
+		{"key":"ID_AV_LASSO",			"value":"套索"},
+		{"key":"ID_AV_LASSO_EXP",		"value":"将特殊细菌的速度降低50％"},
+		{"key":"ID_AV_DOMI",			"value":"显性基因"},
+		{"key":"ID_AV_DOMI_EXP",		"value":"进化所需的细菌摄入减少30％"},
+		                                        
+		{"key":"ID_AV_MAGN",			"value":"磁"},
+		{"key":"ID_AV_MAGN_EXP",		"value":"小细菌进入了一点点"},
+		{"key":"ID_AV_BOMB",			"value":"炸弹"},
+		{"key":"ID_AV_BOMB_EXP",		"value":"以一定的概率轰炸它,当你击中大细菌时将它变成小细菌"},
+		{"key":"ID_AV_GOHST",			"value":"鬼"},
+		{"key":"ID_AV_GOHST_EXP",		"value":"通过而不会遇到大细菌"},
+		{"key":"ID_AV_SSPOON",			"value":"银勺"},
+		{"key":"ID_AV_SSPOON_EXP",		"value":"获得生化分数150％"},
+		{"key":"ID_AV_AGRO",			"value":"挑衅"},
+		{"key":"ID_AV_AGRO_EXP",		"value":"细菌代150％"},
+		{"key":"ID_AV_FORTU",			"value":"幸运"},
+		{"key":"ID_AV_FORTU_EXP",		"value":"吸收特殊细菌300％时服用buff的概率"},
+		{"key":"ID_AV_MATRIX",			"value":"矩阵"},
+		{"key":"ID_AV_MATRIX_EXP",		"value":"玩家细菌附近的细菌很慢"},
+		{"key":"ID_AV_NEMES",			"value":"复仇女神"},
+		{"key":"ID_AV_NEMES_EXP",		"value":"护堤小于玩家胚芽的概率是300％"},
+		{"key":"ID_AV_ADVER",			"value":"广告客户"},
+		{"key":"ID_AV_ADVER_EXP",		"value":"广告效果增加10秒,冷却时间减少10秒"},
+		{"key":"ID_AV_SWOOP",			"value":"飞扑"},
+		{"key":"ID_AV_SWOOP_EXP",		"value":"老板胚芽的HP降低了30％"},
+		{"key":"ID_AV_RADAR",			"value":"雷达"},
+		{"key":"ID_AV_RADAR_EXP",		"value":"老板产卵时间减少了30秒"},
+		{"key":"ID_AV_GROUP",			"value":"集体狩猎"},
+		{"key":"ID_AV_GROUP_EXP",		"value":"出现的老板胚芽+1的数量"},
+		{"key":"ID_AV_NEGO",			"value":"谈判"},
+		{"key":"ID_AV_NEGO_EXP",		"value":"重联生化评分增加10％"},
+		                                        
+		{"key":"ID_AV_DOPP",			"value":"幽灵"},
+		{"key":"ID_AV_DOPP_EXP",		"value":"细菌重复"},
+		{"key":"ID_AV_TOPP",			"value":"顶级捕食者"},
+		{"key":"ID_AV_TOPP_EXP",		"value":"无论大小如何,都可以摄取胚芽"},
+		{"key":"ID_AV_MAGIC",			"value":"宝袋"},
+		{"key":"ID_AV_MAGIC_EXP",		"value":"当老板胚芽死亡1000％时出来的物品"},
+		{"key":"ID_AV_GSPOON",			"value":"金勺子"},
+		{"key":"ID_AV_GSPOON_EXP",		"value":"获得生化分数200％"},
+		{"key":"ID_AV_ALCHE",			"value":"炼金术士"},
+		{"key":"ID_AV_ALCHE_EXP",		"value":"玩家细菌每2秒就会用导弹射出, 被导弹击中的物体会变成金色。 如果吸收了变成黄金的物体, 生化分数为1000％"},
+		{"key":"ID_AV_COMBO",			"value":"二合一"},
+		{"key":"ID_AV_COMBO_EXP",		"value":"连续摄入的细菌会增加所获得的生化分数。  如果您没有得分2秒, 则重置组合。"},
+		{"key":"ID_AV_SALE",			"value":"加固滚动"},
+		{"key":"ID_AV_SALE_EXP",		"value":"加固成本降低50％"},
+		                                        
+		{"key":"ID_AV_CELL",			"value":"细胞分裂"},
+		{"key":"ID_AV_CELL_EXP",		"value":"胚芽数x2,大小80％"},
+		{"key":"ID_AV_AROSU",			"value":"唤醒药水"},
+		{"key":"ID_AV_AROSU_EXP",		"value":"舞台每分钟获得1次唤醒药水, 并获得摄入后可获得的所有增益效果"},
+		{"key":"ID_AV_ANTH",			"value":"炭疽病"},
+		{"key":"ID_AV_ANTH_EXP",		"value":"传播炭疽气体, 将气体细菌带入炭疽病。 炭疽感染的细菌在短时间内分成几个片段。"},
+		{"key":"ID_AV_GLUCO",			"value":"葡萄糖喷雾"},
+		{"key":"ID_AV_GLUCO_EXP",		"value":"喷洒葡萄糖。 每当一个老鼠胚芽服用一粒葡萄糖时,每次它死亡时都会掉下一粒。"},
+		{"key":"ID_AV_COMMA",			"value":"霍乱感染"},
+		{"key":"ID_AV_COMMA_EXP",		"value":"胚芽不能再被摄取了, 被击中的细菌感染了霍乱。 感染霍乱的胚芽继续发出生化分数"},
+		{"key":"ID_AV_ROTTON",			"value":"烂牙"},
+		{"key":"ID_AV_ROTTON_EXP",		"value":"一个干净的牙齿出现在舞台上, 当细菌被击中时,它会变黑。 当所有牙齿腐烂时,它会爆炸并获得大量生化分数"},
+		{"key":"ID_AV_FERMEN",			"value":"发酵"},
+		{"key":"ID_AV_FERMEN_EXP",		"value":"当玩家胚芽不吃其他细菌时开始发酵。 当吃其他胚芽时, 初始化发酵并根据发酵程度获得额外的生化分数"},
+		{"key":"ID_AV_SPORE",			"value":"孢子"},
+		{"key":"ID_AV_SPORE_EXP",		"value":"孢子在规律的时间间隔蔓延, 蘑菇在特定的地方生长。 蘑菇通过食用其他细菌生长,当玩家的细菌接触它们时爆炸, 并释放生化分数。"},
+		{"key":"ID_AV_PENIC",			"value":"青霉素"},
+		{"key":"ID_AV_PENIC_EXP",		"value":"强效抗生素应用于所有阶段, 杀死所有其他细菌, 除了玩家胚芽和老板胚芽, 并将它们转换为生化分数"},
+		{"key":"ID_AV_OVUL",			"value":"排卵"},
+		{"key":"ID_AV_OVUL_EXP",		"value":"将卵细胞放在舞台上。 所有的精子都冲向卵细胞。 当玩家胚芽和卵细胞受精时, 会得到巨大的生化分数"},
+		
+		{"key":"LAST",					"value":""}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
